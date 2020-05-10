@@ -10,17 +10,20 @@ Write the event name in the title. Modify [README.md](README.md) or [past.md](pa
 
 ### README.md event entry format
 
+The event name is the link to the event. User group meetups have `UG:` prefix, workshops have `Workshop:` prefix, conferences have no prefix.  
+
     ## [Event name](https://event-link.com/)
 
     :date: May 12 2020, 7:00 AM UTC  
     🇪🇺 language flag only if different from English. If event is on English, remove this line.
-    :globe_with_meridians: Online  
+    :globe_with_meridians: Online - or use country flag in case of offline event  
     :free: Free or  
     :credit_card: $25
+    :loudspeaker: a call for speakers link  
     :speech_balloon: Describe the event here with a sentence or two.
 
 ### past.md event entry format
 
-This document is intended for entry of past events which do have links to materials and event videos.
+This document is intended for entry of past events that do have links to materials and event videos.
 
     // TODO

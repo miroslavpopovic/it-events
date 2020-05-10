@@ -4,11 +4,13 @@ A list of upcoming IT events, mostly development related. Events are sorted asce
 
 ## Legend
 
+The event name is the link to the event. User group meetups have `UG:` prefix, workshops have `Workshop:` prefix, conferences have no prefix.  
 :date: All times are in UTC.  
 :gb: English language by default, or country flag if the event is not on English.  
-:globe_with_meridians: for an online event or a country flag for in-person events - 🇪🇺.  
+:globe_with_meridians: for an online event or a country flag for in-person events - :eu:.  
 :free: for free events and events with free options.  
 :credit_card: for paid events.  
+:loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
 ## [Consensus 2020](https://www.coindesk.com/events/consensus-2020)  
@@ -39,13 +41,28 @@ A list of upcoming IT events, mostly development related. Events are sorted asce
 :free: Free  
 :speech_balloon: Community speakers will be covering topics like C#, F#, coding practices like refactoring and defensive coding, web, and cloud. With speakers like Zoran Horvat, Tess Ferrandez, Layla Porter, Martin Beeby, Kevin Griffin, Heather Downing...
 
-## [Workshop - SQL Server for developers - Milos Radivojevic](https://kgcode.rs/portfolio-item/workshop-sql-server-za-programere-milos-radivojevic/)  
+## [UG: Clash of Frameworks](https://www.meetup.com/SQL-Server-User-Group-Croatia/events/267270614/)  
+
+:date: May 13 2020, 3:00 PM UTC  
+:croatia: Croatian language  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Something like a hackathon, where teams compete in writing a performant solution for adding 100.000 rows into SQL table using various frameworks. Organized by SQL Server User Group Croatia.
+
+## [Workshop: SQL Server for developers - Milos Radivojevic](https://kgcode.rs/portfolio-item/workshop-sql-server-za-programere-milos-radivojevic/)  
 
 :date: May 16 2020, 7:00 AM UTC  
 :serbia: Serbian language  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: A 6-hour workshop by SQL Server guru, Milos Radivojevic from bwin, co-author of SQL Server 2017 Developer's Guide from Packt Publishing.
+
+## [IBM User Group Days](https://ibm-usergroups.bemyapp.com/)  
+
+:date: May 19-20 2020, 12:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: A 2-day event featuring 96 hours of content from IBM customers and experts.
 
 ## [Microsoft Build](https://mybuild.microsoft.com/)  
 
@@ -67,6 +84,13 @@ A list of upcoming IT events, mostly development related. Events are sorted asce
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: What should be a regular conference, turned into an online event. The conference is designed for software developers that get deployed to or integrate with any cloud platform. Speakers include Mustafa Toroman, Jiri Cincura, Johnny Hooyberghs...
+
+## [UG: How to start with Machine Learning on .NET platform](https://www.meetup.com/MicrosoftDeveloperGraz/events/270366373/)  
+
+:date: May 26 2020, 4:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Dr. Sc. Bahrudin Hrnjica is giving a 2-hour talk about ML.NET, organized by Microsoft Developer User Group Graz.
 
 ## [DevSum](https://www.devsum.se/)  
 
@@ -93,5 +117,13 @@ A list of upcoming IT events, mostly development related. Events are sorted asce
 
 :date: May 30 2020, TBD  
 :globe_with_meridians: Online  
-:free: Free for junior dev track, $40 early bird price for senior track  
-:speech_balloon: A Node.js conference organized by Geekle, with 12 hour of content. Call for speakers is still open and agenda has not been published - https://docs.google.com/forms/d/e/1FAIpQLSeNlhEV97r5NexYYRHD5Fuv55EkBegx1Y87jRxBUm5FmbPTEQ/viewform.
+:free: Free for junior dev track, $40 early bird price for the senior track  
+:loudspeaker: [Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSeNlhEV97r5NexYYRHD5Fuv55EkBegx1Y87jRxBUm5FmbPTEQ/viewform) is still open  
+:speech_balloon: A Node.js conference organized by Geekle, with 12 hours of content. The agenda is not yet published.
+
+## [AWS Community Day Bosnia](https://communityday.awsbosnia.com/)
+
+:date: September 25 2020, 6:00 AM UTC  
+:bosnia_herzegovina: Sarajevo, Bosnia and Herzegovina  
+:free: Free  
+:speech_balloon: A one-day, two-track, free AWS conference organized by the AWS community. The goal of the conference is to gather all these who are interested in AWS, to network, learn from each other, and get inspired. This conference was initially planned for April, but got postponed to September.
