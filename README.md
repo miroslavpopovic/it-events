@@ -5,7 +5,7 @@ A list of upcoming IT events, mostly development related. Events are sorted asce
 ## Legend
 
 :date: All times are in UTC.  
-🇬🇧 English language by default, or country flag if the event is not on English.  
+:gb: English language by default, or country flag if the event is not on English.  
 :globe_with_meridians: for an online event or a country flag for in-person events - 🇪🇺.  
 :free: for free events and events with free options.  
 :credit_card: for paid events.  
@@ -41,8 +41,8 @@ A list of upcoming IT events, mostly development related. Events are sorted asce
 
 ## [Workshop - SQL Server for developers - Milos Radivojevic](https://kgcode.rs/portfolio-item/workshop-sql-server-za-programere-milos-radivojevic/)  
 
-🇷🇸 Serbian language  
-:date: May 12 2020, 7:00 AM UTC  
+:date: May 16 2020, 7:00 AM UTC  
+:serbia: Serbian language  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: A 6-hour workshop by SQL Server guru, Milos Radivojevic from bwin, co-author of SQL Server 2017 Developer's Guide from Packt Publishing.
