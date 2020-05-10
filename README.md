@@ -88,3 +88,10 @@ A list of upcoming IT events, mostly development related. Events are sorted asce
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: 2-day community-driven conference on all things ML.NET. The conference will be live-streamed on Twitch and YouTube. The first day is reserved for a workshop and the second day for sessions.
+
+## [Node.js Global Summit Online](https://geekle.us/)  
+
+:date: May 30 2020, TBD  
+:globe_with_meridians: Online  
+:free: Free for junior dev track, $40 early bird price for senior track  
+:speech_balloon: A Node.js conference organized by Geekle, with 12 hour of content. Call for speakers is still open and agenda has not been published - https://docs.google.com/forms/d/e/1FAIpQLSeNlhEV97r5NexYYRHD5Fuv55EkBegx1Y87jRxBUm5FmbPTEQ/viewform.
