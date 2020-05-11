@@ -2,6 +2,8 @@
 
 A list of upcoming IT events, mostly development related. Events are sorted ascending, by date. For links to past events, please take a look at [past.md](past.md). If you want to add an event to this list, please submit a pull request by following the [contributing guideline](CONTRIBUTING.md).
 
+![IT events](it-events.jpg)
+
 ## Legend
 
 The event name is the link to the event. User group meetups have `UG:` prefix, workshops have `Workshop:` prefix, conferences have no prefix.  
@@ -63,6 +65,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: A 2-day event featuring 96 hours of content from IBM customers and experts.
+
+## [UG: Online talks - Take your Vue projects to the next level!](https://www.meetup.com/avocado-labs-talks/events/270525134/)  
+
+:date: May 19 2020, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: By Avocado Labs. Real-life case studies on how to reach the next level with Vue. We will start with Natalia, a Vue core team member, showing us how we can use Apollo to access REST endpoints, batch queries, and handle local state management! Then we will see how Filip, the co-founder of Vue Storefront, uses the Vue 3 composition API in @VueStorefront!
 
 ## [Microsoft Build](https://mybuild.microsoft.com/)  
 
@@ -320,3 +329,7 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :switzerland: Mainz/Frankfurt, Germany  
 :credit_card: 350 CHF until the end of January, then 399 CHF until the end of February, then 499 CHF  
 :speech_balloon: An independent technology conference for developers, architects, and experts to discuss and get to know .NET technologies all around .NET, .NET Core, C#, ASP.NET Core, Azure, and more. Experienced speakers share their knowledge on the latest topics and give you deep insights into the new world of Microsoft software development and beyond. In addition to the technical talks, .NET Day provides a space for discussions with the speakers and other attendees.
+
+## Attribution
+
+Cover image background by [goranmx](https://pixabay.com/users/goranmx-168090/) from [Pixabay](https://pixabay.com/).
