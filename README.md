@@ -2,8 +2,6 @@
 
 A list of upcoming IT events, mostly development related. Events are sorted ascending, by date. For links to past events, please take a look at [past.md](past.md). If you want to add an event to this list, please submit a pull request by following the [contributing guideline](CONTRIBUTING.md).
 
-![IT events](it-events.jpg)
-
 ## Legend
 
 The event name is the link to the event. User group meetups have `UG:` prefix, workshops have `Workshop:` prefix, conferences have no prefix.  
