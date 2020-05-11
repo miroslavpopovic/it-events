@@ -179,6 +179,14 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: Hear from your local AWS country leaders about the latest trends, customers, and partners in your market, followed by the opening keynote with Werner Vogels, CTO, Amazon.com. After the keynote, dive deep in 55 breakout sessions across 11 tracks, including getting started, building advanced architectures, app development, DevOps, and more.
 
+## [JSNation Live](https://live.jsnation.com/)  
+
+:date: June 18-19 2020, 1:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free with a paid option for higher streaming quality and recordings  
+:loudspeaker: [Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLScWip_DLhZT1fwpkc8OlAVQFs--HlBftE_Vy10D7qS1onQQXg/viewform) closes on May 31st  
+:speech_balloon: The biggest JavaScript conference in the cloud. A 2-day conference on all things JavaScript, gathering international software engineers in the cloud. Speakers include: Jen Looper, John Papa, Bruce Lawson...
+
 ## [The Live Coders Conference](https://captcalli.github.io/LiveCodersConf/)  
 
 :date: June 20 2020, TBA  
@@ -207,6 +215,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :serbia: Belgrade, Serbia  
 :credit_card: TBA  
 :speech_balloon: A two-day conference organized by the Serbian IT community. The ITkonekt event is made of several segments that happen at the same time: IT job fair, IT conference, Gaming segment, IT stories, and various other workshops and secondary events. Over 150 foreign and local lecturers were speaking at this conference in the past, with speakers like Uncle Bob (Robert C. Martin), Venkat Subramaniam, Zoran Horvat, Håkon Wium Lie, Jon Galloway...
+
+## [.NET Summit 2020 Online](https://dotnetsummit.by/)  
+
+:date: August 7-8 2020, TBA  
+:globe_with_meridians: Online  
+:credit_card: 65 € until July 28th, then goes up by 30%  
+:speech_balloon: The 4th community-driven .NET conference dedicated to the practical experience of solving business challenges with .NET or technical challenges in .NET application. Another conference that moved to an online format.
 
 ## [VR/AR Global Summit Vancouver](https://www.vrarglobalsummit.com/)  
 
@@ -251,7 +266,7 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :poland: Warsaw, Poland  
 :credit_card: 399 € for the conference without pre/post-conference events, until the end of May, then 499 € until the end of August, then 599 €  
 :loudspeaker: [Call for Speakers](https://sessionize.com/net-developerdays-2020) is open until May 31st  
-:speech_balloon: The biggest event in Central and Eastern Europe dedicated exclusively to application development on the .NET platform. It is designed for architects, developers, testers and project managers using .NET in their work and to those who want to improve their knowledge and skills in this field. The conference content is 100% English, making it easy for the international audience to attend.
+:speech_balloon: The biggest event in Central and Eastern Europe dedicated exclusively to application development on the .NET platform. It is designed for architects, developers, testers, and project managers using .NET in their work and to those who want to improve their knowledge and skills in this field. The conference content is 100% English, making it easy for the international audience to attend.
 
 ## [European Cloud Summit](https://www.cloudsummit.eu/)  
 
@@ -266,6 +281,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :de: Wiesbaden, Germany  
 :credit_card: 300 €, or 500 € for full conference pass  
 :speech_balloon: The leading and the largest European conference about everything Microsoft 365, Teams, SharePoint, Power Platform, and Business Apps. Speakers include: Dan Holme, Dona Sarkar, Vesa Juvonen, Adis Jugo, Agnes Molnar, Omar Kudovic, Damir Dizdarevic, Damir Dobric, Dragan Panjkov, Edin Kapic...
+
+## [European Cloud Conference](https://europeancloudconference.com/)  
+
+:date: October 27-29 2020, TBA  
+:fr: Nica, France  
+:credit_card: 795 € 2-day tickets, 995 € 3-day tickets, will go up to 995/1395 €  
+:speech_balloon: Dedicated to Microsoft Azure, the European Cloud Conference is a three-day event, focusing on specialist Microsoft Azure sessions from levels 100-400. Access a host of deep-dive learning opportunities, from inspirational Keynotes, 8 expert full-day tutorials, to 70+ specialist Azure sessions. Key Topics include AI, Azure Migrations, Cloud Compute, Database, Hybrid Solutions, Identity & Access, IoT, Integration, Machine Learning, Messaging, Monitoring, Management & Governance, Networking, Quantum Computing, Security, and more. Speakers include: Aleksandar Nikolic, Laurent Bugnion, Magnus Mårtensson, Michele Leroux Bustamante, Mark Brown, Mihail Mateev, Mustafa Toroman, Radu Vunvulea, Thomas Maurer, Vladimir Stefanovic...
 
 ## [NT Conference 2020](https://www.ntk.si/english/)  
 
