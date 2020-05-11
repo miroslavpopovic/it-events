@@ -2,7 +2,7 @@
 
 First off, thanks for taking the time to contribute!
 
-If you want to add an event to the list, please submit a pull request. Note that list is for IT events and mostly for software development events and conferences. Pull requests that don't match the topic will be rejected.
+If you want to add an event to the list, please submit a pull request. Note that list is for IT events and mostly for software development events and conferences. User group events can be added, if they are online or have a big audience. International or English events are preferred. Pull requests that don't match the topic will be rejected.
 
 ## Pull request conventions
 
@@ -24,6 +24,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 
 ### past.md event entry format
 
-This document is intended for entry of past events that do have links to materials and event videos.
+This document is intended for the entry of past events that do have links to materials and event videos.
 
     // TODO
