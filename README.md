@@ -164,6 +164,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: A 1-day virtual conference for software developers who want to become and learn about software architecture. Speakers include: Magnus Mårtensson, Mahesh Chand, Allen O'Neill...
 
+## [NDC { Oslo } 2020](https://ndcoslo.com/)  
+
+:date: June 8-12 2020, 7:00 AM UTC  
+:globe_with_meridians: Online  
+:credit_card: $300 for conference only, $640 for conference and workshops  
+:speech_balloon: A 5-day online event with 2 days of pre-conference workshops and 3 days of the conference. The conference will cover topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
+
 ## [MongoDB.live](https://www.mongodb.com/world/)  
 
 :date: June 9-10 2020, 2:00 PM UTC  
@@ -223,12 +230,35 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: TBA  
 :speech_balloon: A two-day conference organized by the Serbian IT community. The ITkonekt event is made of several segments that happen at the same time: IT job fair, IT conference, Gaming segment, IT stories, and various other workshops and secondary events. Over 150 foreign and local lecturers were speaking at this conference in the past, with speakers like Uncle Bob (Robert C. Martin), Venkat Subramaniam, Zoran Horvat, Håkon Wium Lie, Jon Galloway...
 
+## [NDC { Melbourne } 2020](https://ndcmelbourne.com/)  
+
+:date: July 28-30 2020, 11:00 PM UTC  
+:globe_with_meridians: Online  
+:credit_card: $720 for 3-day pass  
+:loudspeaker: [Call for Speakers](https://sessionize.com/ndc-melbourne-2020-online-workshop-event/) is open until May 17th  
+:speech_balloon: A 3-day online workshop event for software developers by NDC Conferences.
+
 ## [.NET Summit 2020 Online](https://dotnetsummit.by/)  
 
 :date: August 7-8 2020, TBA  
 :globe_with_meridians: Online  
 :credit_card: 65 € until July 28th, then goes up by 30%  
 :speech_balloon: The 4th community-driven .NET conference dedicated to the practical experience of solving business challenges with .NET or technical challenges in .NET application. Another conference that moved to an online format.
+
+## [NDC { TechTown } 2020](https://ndcsydney.com/)  
+
+:date: August 31 - September 3 2020, 11:00 PM UTC  
+:globe_with_meridians: Online  
+:credit_card: $700/$780 for 2-day conference pass, $1400/$1580 for the conference with workshops  
+:loudspeaker: [Call for Speakers](https://sessionize.com/ndc-techtown-2020-online-workshop-event/) is open until June 1st  
+:speech_balloon: A Software-Intensive Product Development Conference organized by NDC Conferences. NDC TechTown is a 4-day event with two days of high-quality workshops followed by two days of conference sessions. Although smaller than NDC Oslo, NDC Sydney, NDC London, NDC TechTown has the same high quality you would expect from any NDC conference.
+
+## [NDC { Minnesota } 2020](https://ndcminnesota.com/)  
+
+:date: September 8-11 2020, 11:00 PM UTC  
+:us: Minneapolis, USA  
+:credit_card: $1200/$1400 for 2-day pass, $1900/$2200 for all  
+:speech_balloon: A 4-day event for software developers that features 2 days of workshops and 2 days of conference sessions. The conference will be covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
 
 ## [VR/AR Global Summit Vancouver](https://www.vrarglobalsummit.com/)  
 
@@ -259,6 +289,14 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :poland: Warsaw, Poland  
 :credit_card: 352 € until the end of August, then 478 €  
 :speech_balloon: A premium, two-day conference focused on the .NET Core and .NET performance. Top-notch speakers from around the globe and companies like Microsoft or JetBrains. Chance to meet well-known people from the .NET community in person!
+
+## [NDC { Sydney } 2020](https://ndcsydney.com/)  
+
+:date: October 12-16 2020, 11:00 PM UTC  
+:australia: Sydney, Australia  
+:credit_card: $1300/$1550 for 3-day conference pass, $2000/$2400 for the conference with workshops  
+:loudspeaker: [Call for Speakers](https://sessionize.com/ndc-sydney-2020/) is open until June 7th  
+:speech_balloon: The 5th annual NDC Conference in Australia. A five-day event with the same format as its European sisters NDC Oslo and NDC London. The conference will feature 5 tracks covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
 
 ## [Thrive Conference](https://www.thriveconf.com/en/Pages/Home.aspx)  
 
@@ -320,6 +358,22 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :loudspeaker: [Call for Speakers](https://sessionize.com/macedonian-codecamp-2020/) is open  
 :speech_balloon: A free, one-day software development event bringing together developers to encourage excellence and innovation in the Macedonian software community. This conference covers the emerging technologies and best practices in the software development industry regardless of technological platform or language.
+
+## [NDC { Security } Oslo 2021](https://ndc-security.com/)  
+
+:date: January 20-22 2021, 11:00 PM UTC  
+:no: London, United Kingdom  
+:credit_card: $550 for 1-day conference pass, $1550 for the conference with workshops  
+:loudspeaker: TBA  
+:speech_balloon: A three-day event with two days of workshops and one day of conference talks.
+
+## [NDC { London } 2021](https://ndc-london.com/)  
+
+:date: January 25-29 2021, 11:00 PM UTC  
+:gb: London, United Kingdom  
+:credit_card: $1730 for 3-day conference pass, $2600 for the conference with workshops  
+:loudspeaker: TBA  
+:speech_balloon: A five-day event with the same format as NDC Oslo. The conference will feature several tracks covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
 
 ## [.NET Day Switzerland 2021](https://www.dotnetday.ch/)  
 
