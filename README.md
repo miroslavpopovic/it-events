@@ -95,7 +95,7 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 
 ## [Cloud DeveloperDays 2020](https://cloud.developerdays.pl/)  
 
-:date: May 26 2020, 7:00 AM UTC  
+:date: May 26-27 2020, 7:00 AM UTC  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: What should be a regular conference, turned into an online event. The conference is designed for software developers that get deployed to or integrate with any cloud platform. Speakers include Mustafa Toroman, Jiri Cincura, Johnny Hooyberghs...
@@ -186,6 +186,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: $139 for the all-access pass (has early-bird discounts)  
 :speech_balloon: A free, 5-day long online summit about Microsoft 365. Topics include: the latest tips, tricks, and guidance on Microsoft 365, Teams, SharePoint, Power Platform, Planner, and more...
 
+## [Microsoft European Virtual Open Source Summit](https://info.microsoft.com/we-azuremig-wbnr-fy20-06jun-16-virtualopensourcesummit-4917_01registration-forminbody.html)  
+
+:date: June 16 2020, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: A unique digital event, designed to celebrate communities, entrepreneurs, and developers coming together to build the future of open source technologies in the cloud. Expert guest speakers will be deep-diving into a wide variety of topics, from chaos engineering and building serverless architecture to multicloud app development.
+
 ## [AWS Summit Online, Europe, Middle East & Africa](https://aws.amazon.com/events/summits/online/emea/)  
 
 :date: June 17 2020, 8:00 AM UTC  
@@ -245,9 +252,9 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: 65 € until July 28th, then goes up by 30%  
 :speech_balloon: The 4th community-driven .NET conference dedicated to the practical experience of solving business challenges with .NET or technical challenges in .NET application. Another conference that moved to an online format.
 
-## [NDC { TechTown } 2020](https://ndcsydney.com/)  
+## [NDC { TechTown } 2020](https://ndctechtown.com/)  
 
-:date: August 31 - September 3 2020, 11:00 PM UTC  
+:date: August 31 - September 3 2020, 7:00 AM UTC  
 :globe_with_meridians: Online  
 :credit_card: $700/$780 for 2-day conference pass, $1400/$1580 for the conference with workshops  
 :loudspeaker: [Call for Speakers](https://sessionize.com/ndc-techtown-2020-online-workshop-event/) is open until June 1st  
@@ -255,10 +262,17 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 
 ## [NDC { Minnesota } 2020](https://ndcminnesota.com/)  
 
-:date: September 8-11 2020, 11:00 PM UTC  
+:date: September 8-11 2020, 2:00 PM UTC  
 :us: Minneapolis, USA  
 :credit_card: $1200/$1400 for 2-day pass, $1900/$2200 for all  
 :speech_balloon: A 4-day event for software developers that features 2 days of workshops and 2 days of conference sessions. The conference will be covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
+
+## [Future Tech 2020](https://futuretech.nl/)  
+
+:date: September 16 2020, TBA  
+:netherlands: Utrecht, The Netherlands  
+:credit_card: 170 €  
+:speech_balloon: A technology conference for developers, architects, and experts to discuss and dive deep into .NET technologies such as .NET Core, ASP.NET Core, Azure, and more.
 
 ## [VR/AR Global Summit Vancouver](https://www.vrarglobalsummit.com/)  
 
@@ -305,6 +319,14 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: 440 € until the end of July, then 550 €  
 :speech_balloon: A Slovenian conference about modern IT technologies. The opportunity to choose from more than 70 high-quality sessions in 9 separate tracks, which will be held in English. Learn tips & tricks as well as best practices from the top experts.
 
+## [TestCon Europe 2020](https://bigdataconference.lt/)  
+
+:date: October 13-15 2020, 1:00 PM UTC  
+:lithuania: Vilnius, Lithuania  
+:credit_card: 300€/459€ for a 2-day conference, 440€/632€ for a full ticket with the workshop  
+:loudspeaker: [Call for Speakers](https://testcon.lt/cfp/) is open  
+:speech_balloon: The leading event primarily aimed at Software Testers and Test Analysts, QA Engineers, Developers, Test Managers, Team Leads, and anyone willing to learn best practices and make their contribution to the smoother software development cycle and quality.
+
 ## [.NET DeveloperDays 2020](https://net.developerdays.pl/)  
 
 :date: October 20-21 2020, 7:00 AM UTC  
@@ -334,6 +356,14 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: 795 € 2-day tickets, 995 € 3-day tickets, will go up to 995/1395 €  
 :speech_balloon: Dedicated to Microsoft Azure, the European Cloud Conference is a three-day event, focusing on specialist Microsoft Azure sessions from levels 100-400. Access a host of deep-dive learning opportunities, from inspirational Keynotes, 8 expert full-day tutorials, to 70+ specialist Azure sessions. Key Topics include AI, Azure Migrations, Cloud Compute, Database, Hybrid Solutions, Identity & Access, IoT, Integration, Machine Learning, Messaging, Monitoring, Management & Governance, Networking, Quantum Computing, Security, and more. Speakers include: Aleksandar Nikolic, Laurent Bugnion, Magnus Mårtensson, Michele Leroux Bustamante, Mark Brown, Mihail Mateev, Mustafa Toroman, Radu Vunvulea, Thomas Maurer, Vladimir Stefanovic...
 
+## [DotNext 2020](https://dotnext-moscow.ru/en/)  
+
+:date: November 2-3 2020, TBA  
+:ru: Moscow, Russia  
+:credit_card: TBA  
+:loudspeaker: [Call for Speakers](https://dotnext-moscow.ru/en/callforpapers/) is open until August 12  
+:speech_balloon: A largest .NET conference in Russia. The conference talks are devoted to: the present and the future of .NET platform, performance optimization, .NET platform inner workings, architecture and design patterns, .NET challenging problems and best practices.
+
 ## [NT Conference 2020](https://www.ntk.si/english/)  
 
 :date: November 3-5 2020, TBA  
@@ -342,6 +372,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: 890 € for full conference  
 :speech_balloon: The biggest Slovenian technological conference has, through the years, grown to be one of the most successful and important IT and business events in our country.
 
+## [Øredev 2020](https://oredev.org/)  
+
+:date: November 3-6 2020, TBA  
+:sweden: Malmö, Sweden  
+:credit_card: $1420/$1520  
+:speech_balloon: Øredev is the perfect blend, with one day of in-depth pre-conference workshops and three days of sessions, you will get tons of inspiration and learning to keep you creating your best work all year long.
+
 ## [NetWork 10](https://www.networkkonferencija.ba/)
 
 :date: November 11-13 2020, 4:00 PM UTC  
@@ -349,6 +386,15 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :bosnia_herzegovina: Neum, Bosnia and Herzegovina  
 :credit_card: 230 € until the end of October, then 280 €, 25 € for students  
 :speech_balloon: The biggest business and technology conference in Bosnia and Herzegovina, focused on Microsoft technologies. The topics covered are: AI, DevOps, IoT, Business Disruption, Digital Transformation, Modern Workplace, Business Applications, Cloud Infrastructure, Open Source, Security & Compliance, and Advanced Analytics.
+
+## [Big Data Conference Europe 2020](https://bigdataconference.lt/)  
+
+:date: November 24-26 2020, 1:00 PM UTC  
+:lithuania: Vilnius, Lithuania  
+:credit_card: 300€/459€ for a 2-day conference, 440€/632€ for a full ticket with the workshop  
+:loudspeaker: [Call for Speakers](https://bigdataconference.lt/cfp/) is open  
+:speech_balloon: A three-day event with purely technical talks and workshops in the fields of Big Data, High Load, Data Science, and Machine Learning.
+The conference covers the core principles how to leverage all your data on-premise and in the cloud and how to drive predictive analytics, deep-learning, and artificial intelligence initiatives.
 
 ## [CodeCamp.mk 2020](https://codecamp.mk/)  
 
@@ -361,19 +407,27 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 
 ## [NDC { Security } Oslo 2021](https://ndc-security.com/)  
 
-:date: January 20-22 2021, 11:00 PM UTC  
-:no: London, United Kingdom  
+:date: January 20-22 2021, 7:00 AM UTC  
+:no: Oslo, Norway  
 :credit_card: $550 for 1-day conference pass, $1550 for the conference with workshops  
 :loudspeaker: TBA  
 :speech_balloon: A three-day event with two days of workshops and one day of conference talks.
 
 ## [NDC { London } 2021](https://ndc-london.com/)  
 
-:date: January 25-29 2021, 11:00 PM UTC  
+:date: January 25-29 2021, 8:00 AM UTC  
 :gb: London, United Kingdom  
 :credit_card: $1730 for 3-day conference pass, $2600 for the conference with workshops  
 :loudspeaker: TBA  
 :speech_balloon: A five-day event with the same format as NDC Oslo. The conference will feature several tracks covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
+
+## [DevDays Europe 2021](https://devdays.lt/)  
+
+:date: April 13-15 2021, 6:00 AM UTC  
+:lithuania: Vilnius, Lithuania  
+:credit_card: TBA  
+:loudspeaker: [Call for Speakers](https://devdays.lt/call-for-papers/) is open  
+:speech_balloon: Software development conference bringing together internationally recognized speakers and developers to encourage excellence and innovation in the software development community. At this conference we cover the emerging technologies and best practices in the software development industry – regardless of technological platform or language – without commercial hype.
 
 ## [.NET Day Switzerland 2021](https://www.dotnetday.ch/)  
 
