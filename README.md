@@ -20,20 +20,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: Coindesk's 5-days long blockchain conference with more than 300 speakers.
 
-## [Dev Around the Sun](https://devaroundthesun.org/)  
-
-:date: May 12 2020, 12:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A 24-hour long, cross-platform, language-agnostic event, with high-level tech talks, as well as human skills talks. Including speakers like Jon Skeet, Scott Hanselman, Troy Hunt, Bjarne Stroustrup, Pinal Dave, DHH, Richard Campbell, Venkat Subramaniam...
-
-## [Tech Inclusion Global Summit](https://techinclusion.co/summit/)  
-
-:date: May 12 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free, with a paid version of $25  
-:speech_balloon: A virtual summit with discussions about Leadership and Professional Growth, Allyship and Culture, Emerging Industry Trends, The Future of Work, and more. With subtitle - The Next Wave of Leadership.
-
 ## [JetBrains .NET Days Online](https://pages.jetbrains.com/dotnet-days-2020)  
 
 :date: May 13-14 2020, 11:00 AM UTC  
