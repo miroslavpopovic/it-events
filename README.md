@@ -35,6 +35,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: Something like a hackathon, where teams compete in writing a performant solution for adding 100.000 rows into SQL table using various frameworks. Organized by SQL Server User Group Croatia.
 
+## [#DDDDD - Distributed Domain-Driven Design Day](https://virtualddd.com/#/conference)  
+
+:date: May 15 2020, 04:00 AM UTC - 10:00 PM UTC   
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: The day will be framed by pre-recorded talks with live Q&A by the speaker as inspired by Liz Keogh, and spiced up by online collaborative modelling and other hands-on sessions. This day will be a 24-hour long worldwide live event
+
 ## [Workshop: SQL Server for developers - Milos Radivojevic](https://kgcode.rs/portfolio-item/workshop-sql-server-za-programere-milos-radivojevic/)  
 
 :date: May 16 2020, 7:00 AM UTC  
