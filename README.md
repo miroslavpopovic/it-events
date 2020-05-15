@@ -13,35 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [Consensus 2020](https://www.coindesk.com/events/consensus-2020)  
-
-:date: May 11-15 2020, 12:30 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Coindesk's 5-days long blockchain conference with more than 300 speakers.
-
-## [JetBrains .NET Days Online](https://pages.jetbrains.com/dotnet-days-2020)  
-
-:date: May 13-14 2020, 11:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Community speakers will be covering topics like C#, F#, coding practices like refactoring and defensive coding, web, and cloud. With speakers like Zoran Horvat, Tess Ferrandez, Layla Porter, Martin Beeby, Kevin Griffin, Heather Downing...
-
-## [UG: Clash of Frameworks](https://www.meetup.com/SQL-Server-User-Group-Croatia/events/267270614/)  
-
-:date: May 13 2020, 3:00 PM UTC  
-:croatia: Croatian language  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Something like a hackathon, where teams compete in writing a performant solution for adding 100.000 rows into SQL table using various frameworks. Organized by SQL Server User Group Croatia.
-
-## [#DDDDD - Distributed Domain-Driven Design Day](https://virtualddd.com/#/conference)  
-
-:date: May 15 2020, 04:00 AM UTC - 10:00 PM UTC   
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: The day will be framed by pre-recorded talks with live Q&A by the speaker as inspired by Liz Keogh, and spiced up by online collaborative modelling and other hands-on sessions. This day will be a 24-hour long worldwide live event
-
 ## [Workshop: SQL Server for developers - Milos Radivojevic](https://kgcode.rs/portfolio-item/workshop-sql-server-za-programere-milos-radivojevic/)  
 
 :date: May 16 2020, 7:00 AM UTC  
@@ -79,12 +50,34 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: Slovenian NT Conference has been postponed to November. They are organizing a virtual event which will be joining together all the IT professionals, developers, managers, business executives, decision-makers, etc. The sessions are in Slovenian.
 
+## [Applied AI Virtual Summit](https://www.re-work.co/events/applied-ai-virtual-summit)  
+
+:date: May 21 2020, 14:00 PM UTC  
+:globe_with_meridians: Online  
+:credit_card: $199  
+:speech_balloon: Discover real-life AI applications, case studies, business insights & results from leading companies leveraging AI to solve problems in enterprise during our virtual conference experience.
+
+## [Container Camp Virtual 2020](https://hopin.to/events/container-camp-2020)  
+
+:date: May 22 2020, 12:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:loudspeaker: [Call for Speakers](https://containercamp.typeform.com/to/o32Lbr) is still open  
+:speech_balloon: A virtual event allowing attendees from around the world to gather with top thinkers and engineers, all working towards advancing the development and understanding of containers.
+
 ## [HalfStack Online](https://halfstackconf.com/online/)  
 
 :date: May 22 2020, 11:00 AM UTC  
 :globe_with_meridians: Online  
 :credit_card: $19  
 :speech_balloon: A frontend JavaScript conference, focusing on things that use the JS and web platform to express creativity, e.g. music, art, VR, thought computing, robots, games, poetry, comedy, etc. Speakers include Jen Looper, Christian Heilmann, Ken Wheeler...
+
+## [WeAreDevelopers Live](https://wearedevelopers.com/live)  
+
+:date: May 25-29 2020, TBA  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Join WeAreDevelopers Live and level up your skills. Watch dev talks and live coding sessions with leading experts from all around the world. Discover new trends, gain new skills, see best practices and expand your knowledge.
 
 ## [Cloud DeveloperDays 2020](https://cloud.developerdays.pl/)  
 
@@ -113,6 +106,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: An online Docker conference organized by theCUBE (CUBE365). A mix of live interviews, recorded sessions, and chat with the speakers/experts. Speakers include Julie Lerman, Kevin Jones, Jessica Deen, Elton Stoneman, Michele Leroux Bustamante, Nigel Poulton...
+
+## [UG: Sql Friday #1: Damir Matešić on "Advanced Data Types – JSON"](https://www.meetup.com/SQL-Friday/events/270633113/)  
+
+:date: May 29 2020, 10:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: JSON (JavaScript Object Notation) is a language in depended, very popular, open standard format for data exchange between applications and services. On this session accompanied by numerous examples we should pass through the usage of JSON in MS SQL. Main topics: Format MS SQL data in JSON format, Read JSON data in MS SQL – Modify JSON data using JSON_MODIFY, JSON functions, tips & tricks.
 
 ## [The Virtual ML.NET Community Conference](https://virtualml.net/)  
 
@@ -170,6 +170,20 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: A free, completely digital, two-day event about MongoDB that will feature globally-accessible broadcasted keynotes, live and on-demand breakout sessions, a fun and interactive virtual "community cafe", digital "Ask the Experts" sessions, and more.
+
+## [UG: .NET Oxford: Scott Hanselman talks about Development](https://www.meetup.com/dotnetoxford/events/270602478/)  
+
+:date: June 9 2020, 5:45 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: We are VERY excited to announce that in June, we're going to be joined by the one and only Scott Hanselman!!! Like at our last event, this will be hosted via Zoom, and we strongly encourage audience participation, ideally with webcams turned on. There'll be plenty of conversation before and after the talk, and also during the break.
+
+## [DotNext Piter 2020](https://dotnext-piter.ru/en/)  
+
+:date: June 15-18 2020, 1:00 PM UTC  
+:globe_with_meridians: Online  
+:credit_card: 163-188 € for personal ticket  
+:speech_balloon: An online conference for .NET developers. The conference talks are devoted to: the present and the future of .NET platform, performance optimization, .NET platform inner workings, architecture and design patterns, .NET challenging problems and best practices.
 
 ## [Collab365: GlobalCon2 Virtual Summit](https://content.collab365.community/collab365-globalcon2/)  
 
@@ -319,6 +333,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: 300€/459€ for a 2-day conference, 440€/632€ for a full ticket with the workshop  
 :loudspeaker: [Call for Speakers](https://testcon.lt/cfp/) is open  
 :speech_balloon: The leading event primarily aimed at Software Testers and Test Analysts, QA Engineers, Developers, Test Managers, Team Leads, and anyone willing to learn best practices and make their contribution to the smoother software development cycle and quality.
+
+## [Tech Bash 2020](https://techbash.com/)  
+
+:date: October 13-16 2020, TBA  
+:us: Pocono Manor, Pennsylvania, US  
+:credit_card: TBA  
+:speech_balloon: TechBash is a community-focused event and is not for profit. The sessions at TechBash will deliver bleeding edge advances in the coding, designing and development of mobile, web, desktop and SaaS applications. Our speakers are world class knowledge experts you may have seen featured at other conferences like DevIntersections, NDC, VS Live (Visual Studio Live), and Google I/O.
 
 ## [.NET DeveloperDays 2020](https://net.developerdays.pl/)  
 
