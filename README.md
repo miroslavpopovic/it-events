@@ -13,27 +13,12 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [Workshop: SQL Server for developers - Milos Radivojevic](https://kgcode.rs/portfolio-item/workshop-sql-server-za-programere-milos-radivojevic/)  
-
-:date: May 16 2020, 7:00 AM UTC  
-:serbia: Serbian language  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A 6-hour workshop by SQL Server guru, Milos Radivojevic from bwin, co-author of SQL Server 2017 Developer's Guide from Packt Publishing.
-
 ## [IBM User Group Days](https://ibm-usergroups.bemyapp.com/)  
 
 :date: May 19-20 2020, 12:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: A 2-day event featuring 96 hours of content from IBM customers and experts.
-
-## [UG: Online talks - Take your Vue projects to the next level!](https://www.meetup.com/avocado-labs-talks/events/270525134/)  
-
-:date: May 19 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: By Avocado Labs. Real-life case studies on how to reach the next level with Vue. We will start with Natalia, a Vue core team member, showing us how we can use Apollo to access REST endpoints, batch queries, and handle local state management! Then we will see how Filip, the co-founder of Vue Storefront, uses the Vue 3 composition API in @VueStorefront!
 
 ## [Microsoft Build](https://mybuild.microsoft.com/)  
 

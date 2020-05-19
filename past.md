@@ -9,6 +9,15 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :gb: English language by default, or country flag if the event was not on English.  
 :speech_balloon: for event description.  
 :arrow_forward: Event recordings  
+:page_facing_up: Source code and samples
+
+## [Workshop: SQL Server for developers - Milos Radivojevic](https://kgcode.rs/portfolio-item/workshop-sql-server-za-programere-milos-radivojevic/)  
+
+:date: May 16 2020  
+:serbia: Serbian language  
+:speech_balloon: A 6-hour workshop by SQL Server guru, Milos Radivojevic from bwin, co-author of SQL Server 2017 Developer's Guide from Packt Publishing.  
+:page_facing_up: [Samples](https://github.com/milossql/sessions/tree/master/SQL%20Server%20za%20programere)
+
 
 ## [Dev Around the Sun 2020](https://devaroundthesun.org/)  
 
