@@ -18,6 +18,11 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :speech_balloon: A 6-hour workshop by SQL Server guru, Milos Radivojevic from bwin, co-author of SQL Server 2017 Developer's Guide from Packt Publishing.  
 :page_facing_up: [Samples](https://github.com/milossql/sessions/tree/master/SQL%20Server%20za%20programere)
 
+## [JetBrains .NET Days Online](https://pages.jetbrains.com/dotnet-days-2020)  
+
+:date: May 13-14 2020  
+:speech_balloon: Community speakers will be covering topics like C#, F#, coding practices like refactoring and defensive coding, web, and cloud. With speakers like Zoran Horvat, Tess Ferrandez, Layla Porter, Martin Beeby, Kevin Griffin, Heather Downing...  
+:arrow_forward: [Recordings](https://pages.jetbrains.com/dotnet-days-2020/newsletter)  
 
 ## [Dev Around the Sun 2020](https://devaroundthesun.org/)  
 
