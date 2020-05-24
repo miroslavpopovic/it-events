@@ -13,50 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [IBM User Group Days](https://ibm-usergroups.bemyapp.com/)  
-
-:date: May 19-20 2020, 12:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A 2-day event featuring 96 hours of content from IBM customers and experts.
-
-## [Microsoft Build](https://mybuild.microsoft.com/)  
-
-:date: May 19-20 2020, 3:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Microsoft's biggest developer conference where new things will be announced. :tada::tada::tada:
-
-## [NT Remote 2020](https://remote.ntk.si/)  
-
-:date: May 20 2020, 12:00 PM UTC  
-:slovenia: Slovenian language
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Slovenian NT Conference has been postponed to November. They are organizing a virtual event which will be joining together all the IT professionals, developers, managers, business executives, decision-makers, etc. The sessions are in Slovenian.
-
-## [Applied AI Virtual Summit](https://www.re-work.co/events/applied-ai-virtual-summit)  
-
-:date: May 21 2020, 14:00 PM UTC  
-:globe_with_meridians: Online  
-:credit_card: $199  
-:speech_balloon: Discover real-life AI applications, case studies, business insights & results from leading companies leveraging AI to solve problems in enterprise during our virtual conference experience.
-
-## [Container Camp Virtual 2020](https://hopin.to/events/container-camp-2020)  
-
-:date: May 22 2020, 12:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:loudspeaker: [Call for Speakers](https://containercamp.typeform.com/to/o32Lbr) is still open  
-:speech_balloon: A virtual event allowing attendees from around the world to gather with top thinkers and engineers, all working towards advancing the development and understanding of containers.
-
-## [HalfStack Online](https://halfstackconf.com/online/)  
-
-:date: May 22 2020, 11:00 AM UTC  
-:globe_with_meridians: Online  
-:credit_card: $19  
-:speech_balloon: A frontend JavaScript conference, focusing on things that use the JS and web platform to express creativity, e.g. music, art, VR, thought computing, robots, games, poetry, comedy, etc. Speakers include Jen Looper, Christian Heilmann, Ken Wheeler...
-
 ## [WeAreDevelopers Live](https://wearedevelopers.com/live)  
 
 :date: May 25-29 2020, TBA  
@@ -77,6 +33,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: Dr. Sc. Bahrudin Hrnjica is giving a 2-hour talk about ML.NET, organized by Microsoft Developer User Group Graz.
+
+## [Jamstack Conf Virtual 2020](https://jamstackconf.com/virtual/)  
+
+:date: May 27-28 2020, 1:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free for conference talks, $100 for a workshop  
+:speech_balloon: Jamstack Conf is a two-day celebration of the next generation of web apps, where the Jamstack community and ecosystem come together to learn, connect, and create. Attendees range from the front end and full-stack engineers to web agencies all ready to push the boundaries of tomorrow's web architecture.
 
 ## [DevSum](https://www.devsum.se/)  
 
@@ -133,7 +96,7 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: June 5 2020, 9:00 AM UTC  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: A 1-day virtual event that will feature more than 8 hours of talks covering: getting started with F# for .NET, functional architecture, real-world experience and beyond the basics.
+:speech_balloon: A 1-day virtual event that will feature more than 8 hours of talks covering: getting started with F# for .NET, functional architecture, real-world experience, and beyond the basics.
 
 ## [Software Architecture Virtual Conference](https://www.2020twenty.net/softwarearchitecture/)  
 
@@ -141,6 +104,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: A 1-day virtual conference for software developers who want to become and learn about software architecture. Speakers include: Magnus Mårtensson, Mahesh Chand, Allen O'Neill...
+
+## [EnthusiastiCon](https://www.enthusiasticon.de/)  
+
+:date: June 6 2020, TBA  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: EnthusiastiCon is a conference for the programming community. We will talk about what excites us the most about programming - the strange, the wonderful, and the clever solutions to unusual problems. We're hoping that wonderful people will join us to share their enthusiasm or listen to what makes fellow programmers beam with joy about our craft.
 
 ## [NDC { Oslo } 2020](https://ndcoslo.com/)  
 
@@ -377,6 +347,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :sweden: Malmö, Sweden  
 :credit_card: $1420/$1520  
 :speech_balloon: Øredev is the perfect blend, with one day of in-depth pre-conference workshops and three days of sessions, you will get tons of inspiration and learning to keep you creating your best work all year long.
+
+## [.NET Conf 2020](https://www.dotnetconf.net/)
+
+:date: November 10-12 2020, 4:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: .NET Conf is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th annivesary and we're working on a few more suprises. You won't want to miss this one.
 
 ## [NetWork 10](https://www.networkkonferencija.ba/)
 
