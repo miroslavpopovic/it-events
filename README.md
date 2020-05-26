@@ -27,19 +27,19 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: What should be a regular conference, turned into an online event. The conference is designed for software developers that get deployed to or integrate with any cloud platform. Speakers include Mustafa Toroman, Jiri Cincura, Johnny Hooyberghs...
 
-## [UG: How to start with Machine Learning on .NET platform](https://www.meetup.com/MicrosoftDeveloperGraz/events/270366373/)  
-
-:date: May 26 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Dr. Sc. Bahrudin Hrnjica is giving a 2-hour talk about ML.NET, organized by Microsoft Developer User Group Graz.
-
 ## [Jamstack Conf Virtual 2020](https://jamstackconf.com/virtual/)  
 
 :date: May 27-28 2020, 1:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free for conference talks, $100 for a workshop  
 :speech_balloon: Jamstack Conf is a two-day celebration of the next generation of web apps, where the Jamstack community and ecosystem come together to learn, connect, and create. Attendees range from the front end and full-stack engineers to web agencies all ready to push the boundaries of tomorrow's web architecture.
+
+## [UG: How to start with Machine Learning on .NET platform](https://www.meetup.com/MicrosoftDeveloperGraz/events/270366373/)  
+
+:date: May 27 2020, 4:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Dr. Sc. Bahrudin Hrnjica is giving a 2-hour talk about ML.NET, organized by Microsoft Developer User Group Graz.
 
 ## [DevSum](https://www.devsum.se/)  
 
