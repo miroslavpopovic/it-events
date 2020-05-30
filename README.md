@@ -57,6 +57,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: The leading and the largest online conference with a focus on Microsoft 365, Teams, SharePoint, and Power Platform. Topics include: modern workplace, remote working, distance learning... Speakers include: Dona Sarkar, Dan Holme, Adis Jugo, Agnes Molnar, Christina Wheeler, Marc Anderson, Nenad Trajkovski, Spenser Harbar...
 
+## [Virtual Azure Community Day](https://azureday.community/)  
+
+:date: June 3 2020, 1:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Where do all the sessions go when events and meetups are being cancelled all over the world? We thought it would be fun to create a platform where we, as a community, can virtually get together and enjoy those sessions you don't want to miss out on. Join us for the second Virtual Azure Community Day! No stickers or socks, but 24 hours of technical geekery. There's multiple streams hosted from around the world.
+
 ## [fsharpConf 2020](http://fsharpconf.com/)  
 
 :date: June 5 2020, 9:00 AM UTC  
