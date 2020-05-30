@@ -13,55 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [WeAreDevelopers Live](https://wearedevelopers.com/live)  
-
-:date: May 25-29 2020, TBA  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Join WeAreDevelopers Live and level up your skills. Watch dev talks and live coding sessions with leading experts from all around the world. Discover new trends, gain new skills, see best practices and expand your knowledge.
-
-## [Cloud DeveloperDays 2020](https://cloud.developerdays.pl/)  
-
-:date: May 26-27 2020, 7:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: What should be a regular conference, turned into an online event. The conference is designed for software developers that get deployed to or integrate with any cloud platform. Speakers include Mustafa Toroman, Jiri Cincura, Johnny Hooyberghs...
-
-## [Jamstack Conf Virtual 2020](https://jamstackconf.com/virtual/)  
-
-:date: May 27-28 2020, 1:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free for conference talks, $100 for a workshop  
-:speech_balloon: Jamstack Conf is a two-day celebration of the next generation of web apps, where the Jamstack community and ecosystem come together to learn, connect, and create. Attendees range from the front end and full-stack engineers to web agencies all ready to push the boundaries of tomorrow's web architecture.
-
-## [UG: How to start with Machine Learning on .NET platform](https://www.meetup.com/MicrosoftDeveloperGraz/events/270366373/)  
-
-:date: May 27 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Dr. Sc. Bahrudin Hrnjica is giving a 2-hour talk about ML.NET, organized by Microsoft Developer User Group Graz.
-
-## [DevSum](https://www.devsum.se/)  
-
-:date: May 28-29 2020, 7:00 AM UTC  
-:globe_with_meridians: Online  
-:credit_card: $500  
-:speech_balloon: The biggest developer conference in Sweden was traditionally a regular conference, but this year it will be an online event. Speakers include Andreas Wanquist, Chris Klug, Dror Helper, David Neal, Gill Cleeren, Irina Scurtu, Jaime Gonzales Garcia, Jimmy Bogard, Laurent Bugnion, Lemon, Rachel Appel, Roland Guijt, Roy Osherove...
-
-## [DockerCon Live 2020](https://docker.events.cube365.net/docker/dockercon)  
-
-:date: May 28 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: An online Docker conference organized by theCUBE (CUBE365). A mix of live interviews, recorded sessions, and chat with the speakers/experts. Speakers include Julie Lerman, Kevin Jones, Jessica Deen, Elton Stoneman, Michele Leroux Bustamante, Nigel Poulton...
-
-## [UG: Sql Friday #1: Damir Matešić on "Advanced Data Types – JSON"](https://www.meetup.com/SQL-Friday/events/270633113/)  
-
-:date: May 29 2020, 10:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: JSON (JavaScript Object Notation) is a language in depended, very popular, open standard format for data exchange between applications and services. On this session accompanied by numerous examples we should pass through the usage of JSON in MS SQL. Main topics: Format MS SQL data in JSON format, Read JSON data in MS SQL – Modify JSON data using JSON_MODIFY, JSON functions, tips & tricks.
-
 ## [The Virtual ML.NET Community Conference](https://virtualml.net/)  
 
 :date: May 29-30 2020, 3:00 PM UTC  
@@ -83,6 +34,21 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: An online conference, organized by the VR/AR Association, connecting the best virtual reality and augmented reality solution providers with enterprise and media entertainment companies.
+
+## [Agile Virtual Summit](https://agilevirtualsummit.com/)  
+
+:date: June 1-5 2020, 4:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: We've assembled a Dream Team of agilists for a FREE 5-day Agile Virtual Summit to bring some agile cheer right to your living room during these trying times. During this summit, you'll hear from some of your favorite speakers on a broad range of topics from agile leadership, to personal agility. From how to turbocharge your retrospectives, to why "Velocity Poisoning" is killing your organization.
+
+## [AWS Adriatic User Groups Meetup](https://www.meetup.com/AWS-User-Group-Banja-Luka/events/270887960/)  
+
+:date: June 2 2020, 5:00 PM UTC  
+:bosnia_herzegovina: :serbia: :croatia: Bosnian/Croatian/Serbian languages  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: AWS Adria User Groups meetup, will gather all AWS User Groups members from the Adria region where you will be able to hear and learn about Amazon Web Services from the best local AWS experts on local languages. The meetup will be held via the Twitch platform, https://www.twitch.tv/awsovanje. Twitch channel awsovanje will be used for the next similar online events, so do not forget to subscribe.
 
 ## [Galactic Collaboration Summit](https://collabsummit.space/)  
 
@@ -184,6 +150,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: Apple says that the online event will allow millions of creative and innovative developers to get access to future versions of iOS, iPadOS, macOS, watchOS, and tvOS, as well as engage with Apple engineers. Apple plans to hold a keynote event to announce new software, presumably on June 22 when WWDC begins. https://www.macrumors.com/roundup/wwdc/
+
+## [Flutter Day](https://events.withgoogle.com/flutter-day/)  
+
+:date: June 25 2020, 4:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Join us for a full 24-hours of codelabs and Q&A hosted by the official Flutter team! We'll also have three talks diving in deeper on some of the recent announcements this spring. Following this event, there will be a community-driven Flutter hackathon.
 
 ## [.NET Core Summer Event 2020](https://www.dncse.nl/)  
 
