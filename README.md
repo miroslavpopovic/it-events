@@ -13,21 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [The Virtual ML.NET Community Conference](https://virtualml.net/)  
-
-:date: May 29-30 2020, 3:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: 2-day community-driven conference on all things ML.NET. The conference will be live-streamed on Twitch and YouTube. The first day is reserved for a workshop and the second day for sessions.
-
-## [Node.js Global Summit Online](https://geekle.us/)  
-
-:date: May 30 2020, TBA  
-:globe_with_meridians: Online  
-:free: Free for junior dev track, $40 early bird price for the senior track  
-:loudspeaker: [Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSeNlhEV97r5NexYYRHD5Fuv55EkBegx1Y87jRxBUm5FmbPTEQ/viewform) is still open  
-:speech_balloon: A Node.js conference organized by Geekle, with 12 hours of content. The agenda is not yet published.
-
 ## [VR/AR Global Summit Online Conference](https://www.vrarglobalsummit.com/)  
 
 :date: June 1-3 2020, 12:00 PM UTC  
