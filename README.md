@@ -13,62 +13,12 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [VR/AR Global Summit Online Conference](https://www.vrarglobalsummit.com/)  
-
-:date: June 1-3 2020, 12:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: An online conference, organized by the VR/AR Association, connecting the best virtual reality and augmented reality solution providers with enterprise and media entertainment companies.
-
-## [Agile Virtual Summit](https://agilevirtualsummit.com/)  
-
-:date: June 1-5 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: We've assembled a Dream Team of agilists for a FREE 5-day Agile Virtual Summit to bring some agile cheer right to your living room during these trying times. During this summit, you'll hear from some of your favorite speakers on a broad range of topics from agile leadership, to personal agility. From how to turbocharge your retrospectives, to why "Velocity Poisoning" is killing your organization.
-
-## [AWS Adriatic User Groups Meetup](https://www.meetup.com/AWS-User-Group-Banja-Luka/events/270887960/)  
-
-:date: June 2 2020, 5:00 PM UTC  
-:bosnia_herzegovina: :serbia: :croatia: Bosnian/Croatian/Serbian languages  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: AWS Adria User Groups meetup, will gather all AWS User Groups members from the Adria region where you will be able to hear and learn about Amazon Web Services from the best local AWS experts on local languages. The meetup will be held via the Twitch platform, https://www.twitch.tv/awsovanje. Twitch channel awsovanje will be used for the next similar online events, so do not forget to subscribe.
-
 ## [Galactic Collaboration Summit](https://collabsummit.space/)  
 
 :date: June 2 and June 9 2020, TBA  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: The leading and the largest online conference with a focus on Microsoft 365, Teams, SharePoint, and Power Platform. Topics include: modern workplace, remote working, distance learning... Speakers include: Dona Sarkar, Dan Holme, Adis Jugo, Agnes Molnar, Christina Wheeler, Marc Anderson, Nenad Trajkovski, Spenser Harbar...
-
-## [Virtual Azure Community Day](https://azureday.community/)  
-
-:date: June 3 2020, 1:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Where do all the sessions go when events and meetups are being cancelled all over the world? We thought it would be fun to create a platform where we, as a community, can virtually get together and enjoy those sessions you don't want to miss out on. Join us for the second Virtual Azure Community Day! No stickers or socks, but 24 hours of technical geekery. There's multiple streams hosted from around the world.
-
-## [fsharpConf 2020](http://fsharpconf.com/)  
-
-:date: June 5 2020, 9:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A 1-day virtual event that will feature more than 8 hours of talks covering: getting started with F# for .NET, functional architecture, real-world experience, and beyond the basics.
-
-## [Software Architecture Virtual Conference](https://www.2020twenty.net/softwarearchitecture/)  
-
-:date: June 5 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A 1-day virtual conference for software developers who want to become and learn about software architecture. Speakers include: Magnus Mårtensson, Mahesh Chand, Allen O'Neill...
-
-## [EnthusiastiCon](https://www.enthusiasticon.de/)  
-
-:date: June 6 2020, TBA  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: EnthusiastiCon is a conference for the programming community. We will talk about what excites us the most about programming - the strange, the wonderful, and the clever solutions to unusual problems. We're hoping that wonderful people will join us to share their enthusiasm or listen to what makes fellow programmers beam with joy about our craft.
 
 ## [NDC { Oslo } 2020](https://ndcoslo.com/)  
 
@@ -77,6 +27,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: $300 for conference only, $640 for conference and workshops  
 :speech_balloon: A 5-day online event with 2 days of pre-conference workshops and 3 days of the conference. The conference will cover topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
 
+## [Shift Remote](https://remote.shiftconf.co/)  
+
+:date: June 9 2020, 2:45 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: A series of live-streamed events, consisting of both educational and inspirational talks, along with Q&As held by leading developers. The series is focused on a wide range of developer topics, each event in the series having their own-sub topic; JS, CSS, DevOps, Serverless, Game Dev, AI and others.
+
 ## [MongoDB.live](https://www.mongodb.com/world/)  
 
 :date: June 9-10 2020, 2:00 PM UTC  
@@ -84,12 +41,26 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: A free, completely digital, two-day event about MongoDB that will feature globally-accessible broadcasted keynotes, live and on-demand breakout sessions, a fun and interactive virtual "community cafe", digital "Ask the Experts" sessions, and more.
 
-## [UG: .NET Oxford: Scott Hanselman talks about Development](https://www.meetup.com/dotnetoxford/events/270602478/)  
+## [UG: .NET Oxford: Scott Hunter - .NET 5 and MS Build Announcements](https://www.meetup.com/dotnetoxford/events/270602478/)  
 
 :date: June 9 2020, 5:45 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: We are VERY excited to announce that in June, we're going to be joined by the one and only Scott Hanselman!!! Like at our last event, this will be hosted via Zoom, and we strongly encourage audience participation, ideally with webcams turned on. There'll be plenty of conversation before and after the talk, and also during the break.
+:speech_balloon: We're very excited to announce that this month, we'll be joined by the one and only Scott Hunter! Director of Program Management for .NET - Visual Studio and .NET - including .NET Core, .NET tooling, Languages, ASP.NET, Entity Framework and Web Tooling! In his talk, he'll be discussing the announcements about .NET and ASP.NET Core from the Microsoft Build 2020 conference!
+
+## [Women Tech Global Conference 2020](https://www.womentech.net/women-tech-conference)  
+
+:date: June 10-12 2020, 8:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: ​​​​​​The virtual conference will connect 100 000 women, minorities, and their allies in tech through an interactive platform  featuring keynotes, engaging panels, technical workshops, and a tech job fair with face-to-face networking sessions.​​​​​​​
+
+## [DevSecCon24 2020](https://www.devseccon.com/devseccon24-2020/)  
+
+:date: June 15 2020, 2:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: The first virtual conference in the DevSecCon global conference series – all from the comfort of your home or office. Join us for 24 hours of inspiring talks about DevSecOps – the practice of building security into development processes. This is your chance to learn from key industry figures in a virtual environment and learn how DevOps and Security can work together to make continuously secure development a reality.
 
 ## [DotNext Piter 2020](https://dotnext-piter.ru/en/)  
 
@@ -164,6 +135,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: TBA  
 :speech_balloon: A two-day conference organized by the Serbian IT community. The ITkonekt event is made of several segments that happen at the same time: IT job fair, IT conference, Gaming segment, IT stories, and various other workshops and secondary events. Over 150 foreign and local lecturers were speaking at this conference in the past, with speakers like Uncle Bob (Robert C. Martin), Venkat Subramaniam, Zoran Horvat, Håkon Wium Lie, Jon Galloway...
 
+## [Virtual Azure Community Day](https://azureday.community/)  
+
+:date: July 28 2020, 1:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Where do all the sessions go when events and meetups are being cancelled all over the world? We thought it would be fun to create a platform where we, as a community, can virtually get together and enjoy those sessions you don't want to miss out on. Join us for the second Virtual Azure Community Day! No stickers or socks, but 24 hours of technical geekery. There's multiple streams hosted from around the world.
+
 ## [NDC { Melbourne } 2020](https://ndcmelbourne.com/)  
 
 :date: July 28-30 2020, 11:00 PM UTC  
@@ -171,6 +149,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: $720 for 3-day pass  
 :loudspeaker: [Call for Speakers](https://sessionize.com/ndc-melbourne-2020-online-workshop-event/) is open until May 17th  
 :speech_balloon: A 3-day online workshop event for software developers by NDC Conferences.
+
+## [INTERFACE by apidays](https://www.apidays.co/interface)  
+
+:date: June 30 - July 1 2020, TBD  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: The first global digital API conference. INTERFACE, by apidays will gather our best past 7 years speakers, our entire global community, and the API landscape leaders around our most popular topics.
 
 ## [.NET Summit 2020 Online](https://dotnetsummit.by/)  
 
@@ -193,6 +178,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :us: Minneapolis, USA  
 :credit_card: $1200/$1400 for 2-day pass, $1900/$2200 for all  
 :speech_balloon: A 4-day event for software developers that features 2 days of workshops and 2 days of conference sessions. The conference will be covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
+
+## [Shift Dev Conference 2020](https://dev.shiftconf.co/)  
+
+:date: September 14-15 2020, TBA  
+:croatia: Split, Croatia  
+:credit_card: 200-480 €  
+:speech_balloon: A two-day single-stage developer event, consisting of a balance of educational and inspirational talks, delivered with a side of workshops and networking events located on the beautiful Mediterranean coast.
 
 ## [Future Tech 2020](https://futuretech.nl/)  
 
@@ -327,6 +319,14 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :bosnia_herzegovina: Neum, Bosnia and Herzegovina  
 :credit_card: 230 € until the end of October, then 280 €, 25 € for students  
 :speech_balloon: The biggest business and technology conference in Bosnia and Herzegovina, focused on Microsoft technologies. The topics covered are: AI, DevOps, IoT, Business Disruption, Digital Transformation, Modern Workplace, Business Applications, Cloud Infrastructure, Open Source, Security & Compliance, and Advanced Analytics.
+
+## [Update Conference Prague 2020](https://www.updateconference.net/en)
+
+:date: November 12-13 2020, TBD  
+🇨🇿 Prague, Czech Republic  
+:credit_card: TBD  
+:loudspeaker: [Call for Speakers](https://sessionize.com/update-conference-prague-2020/) is open until June 30  
+:speech_balloon: Update Conference Prague is the biggest .NET developer conference in the Czech Republic. The conference features three halls and more than 40 technical sessions led by top experts from Europe, USA and other countries.
 
 ## [Big Data Conference Europe 2020](https://bigdataconference.lt/)  
 
