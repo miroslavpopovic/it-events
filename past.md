@@ -11,6 +11,12 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :arrow_forward: Event recordings  
 :page_facing_up: Source code and samples
 
+## [UG: .NET Oxford: Scott Hunter - .NET 5 and MS Build Announcements](https://www.meetup.com/dotnetoxford/events/270602478/)  
+
+:date: June 9 2020  
+:speech_balloon: We're very excited to announce that this month, we'll be joined by the one and only Scott Hunter! Director of Program Management for .NET - Visual Studio and .NET - including .NET Core, .NET tooling, Languages, ASP.NET, Entity Framework and Web Tooling! In his talk, he'll be discussing the announcements about .NET and ASP.NET Core from the Microsoft Build 2020 conference!  
+:arrow_forward: [Recordings](https://youtu.be/342IpMafkGg)  
+
 ## [Workshop: SQL Server for developers - Milos Radivojevic](https://kgcode.rs/portfolio-item/workshop-sql-server-za-programere-milos-radivojevic/)  
 
 :date: May 16 2020  

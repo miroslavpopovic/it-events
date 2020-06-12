@@ -13,48 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [Galactic Collaboration Summit](https://collabsummit.space/)  
-
-:date: June 2 and June 9 2020, TBA  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: The leading and the largest online conference with a focus on Microsoft 365, Teams, SharePoint, and Power Platform. Topics include: modern workplace, remote working, distance learning... Speakers include: Dona Sarkar, Dan Holme, Adis Jugo, Agnes Molnar, Christina Wheeler, Marc Anderson, Nenad Trajkovski, Spenser Harbar...
-
-## [NDC { Oslo } 2020](https://ndcoslo.com/)  
-
-:date: June 8-12 2020, 7:00 AM UTC  
-:globe_with_meridians: Online  
-:credit_card: $300 for conference only, $640 for conference and workshops  
-:speech_balloon: A 5-day online event with 2 days of pre-conference workshops and 3 days of the conference. The conference will cover topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
-
-## [Shift Remote](https://remote.shiftconf.co/)  
-
-:date: June 9 2020, 2:45 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A series of live-streamed events, consisting of both educational and inspirational talks, along with Q&As held by leading developers. The series is focused on a wide range of developer topics, each event in the series having their own-sub topic; JS, CSS, DevOps, Serverless, Game Dev, AI and others.
-
-## [MongoDB.live](https://www.mongodb.com/world/)  
-
-:date: June 9-10 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A free, completely digital, two-day event about MongoDB that will feature globally-accessible broadcasted keynotes, live and on-demand breakout sessions, a fun and interactive virtual "community cafe", digital "Ask the Experts" sessions, and more.
-
-## [UG: .NET Oxford: Scott Hunter - .NET 5 and MS Build Announcements](https://www.meetup.com/dotnetoxford/events/270602478/)  
-
-:date: June 9 2020, 5:45 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: We're very excited to announce that this month, we'll be joined by the one and only Scott Hunter! Director of Program Management for .NET - Visual Studio and .NET - including .NET Core, .NET tooling, Languages, ASP.NET, Entity Framework and Web Tooling! In his talk, he'll be discussing the announcements about .NET and ASP.NET Core from the Microsoft Build 2020 conference!
-
-## [Women Tech Global Conference 2020](https://www.womentech.net/women-tech-conference)  
-
-:date: June 10-12 2020, 8:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: ​​​​​​The virtual conference will connect 100 000 women, minorities, and their allies in tech through an interactive platform  featuring keynotes, engaging panels, technical workshops, and a tech job fair with face-to-face networking sessions.​​​​​​​
-
 ## [DevSecCon24 2020](https://www.devseccon.com/devseccon24-2020/)  
 
 :date: June 15 2020, 2:00 AM UTC  
@@ -91,12 +49,25 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: Hear from your local AWS country leaders about the latest trends, customers, and partners in your market, followed by the opening keynote with Werner Vogels, CTO, Amazon.com. After the keynote, dive deep in 55 breakout sessions across 11 tracks, including getting started, building advanced architectures, app development, DevOps, and more.
 
+## [Adobe 99U Conference](https://conference.99u.com/)  
+
+:date: June 17 2020, 2:30 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: What does it mean to be a creative? This year's 99U Conference is a call to unpack our creative identities, exploring how to establish our purpose, nurture our talent, and define success on our own terms. We're transforming the in-person event into a digital experience that any creative can join free of charge, live June 17 on Behance. Register now.
+
+## [Postman Webinar: "Working with the Twitter API Using Postman"](https://www.postman.com/webinars/twitter-labs-api/)  
+
+:date: June 17 2020, 6:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: In this webinar, the Postman-and-Twitter dream team of Kin, Daniele, and Suhem will walk you through different versions of the Twitter API and explore what’s possible when you combine the capabilities of Postman and Twitter.
+
 ## [JSNation Live](https://live.jsnation.com/)  
 
 :date: June 18-19 2020, 1:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free with a paid option for higher streaming quality and recordings  
-:loudspeaker: [Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLScWip_DLhZT1fwpkc8OlAVQFs--HlBftE_Vy10D7qS1onQQXg/viewform) closes on May 31st  
 :speech_balloon: The biggest JavaScript conference in the cloud. A 2-day conference on all things JavaScript, gathering international software engineers in the cloud. Speakers include: Jen Looper, John Papa, Bruce Lawson...
 
 ## [The Live Coders Conference](https://captcalli.github.io/LiveCodersConf/)  
@@ -104,7 +75,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: June 20 2020, TBA  
 :globe_with_meridians: Online  
 :free: Free  
-:loudspeaker: [Call for Speakers](https://www.papercall.io/lcconf2) closes on May 15, 13:37 UTC  
 :speech_balloon: The Live Coders, an outgoing and enthusiastic group of friendly channels that write code, teach about technology, and promote the technical community is organizing a free (all-day) online conference for everyone on Twitch, with talks covering various topics.
 
 ## [Apple Worldwide Developer Conference 2020](https://developer.apple.com/wwdc20/)  
@@ -135,27 +105,37 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: TBA  
 :speech_balloon: A two-day conference organized by the Serbian IT community. The ITkonekt event is made of several segments that happen at the same time: IT job fair, IT conference, Gaming segment, IT stories, and various other workshops and secondary events. Over 150 foreign and local lecturers were speaking at this conference in the past, with speakers like Uncle Bob (Robert C. Martin), Venkat Subramaniam, Zoran Horvat, Håkon Wium Lie, Jon Galloway...
 
-## [Virtual Azure Community Day](https://azureday.community/)  
-
-:date: July 28 2020, 1:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Where do all the sessions go when events and meetups are being cancelled all over the world? We thought it would be fun to create a platform where we, as a community, can virtually get together and enjoy those sessions you don't want to miss out on. Join us for the second Virtual Azure Community Day! No stickers or socks, but 24 hours of technical geekery. There's multiple streams hosted from around the world.
-
-## [NDC { Melbourne } 2020](https://ndcmelbourne.com/)  
-
-:date: July 28-30 2020, 11:00 PM UTC  
-:globe_with_meridians: Online  
-:credit_card: $720 for 3-day pass  
-:loudspeaker: [Call for Speakers](https://sessionize.com/ndc-melbourne-2020-online-workshop-event/) is open until May 17th  
-:speech_balloon: A 3-day online workshop event for software developers by NDC Conferences.
-
 ## [INTERFACE by apidays](https://www.apidays.co/interface)  
 
 :date: June 30 - July 1 2020, TBD  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: The first global digital API conference. INTERFACE, by apidays will gather our best past 7 years speakers, our entire global community, and the API landscape leaders around our most popular topics.
+
+## [UG: .NET Oxford: Hacking C# and REST Q&A](https://www.meetup.com/dotnetoxford/events/271157459/)  
+
+:date: July 14 2020, 5:45 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon:  
+20 years of ReST, are we there yet? - Sebastien Lambla  
+ReST was formalized 20 years ago now, and continues to be a source of debate amongst developers. Sebastien has been coding such systems since the noughties. In this session he’ll do a quick overview of the state of ReST today, and will then engage with all attendees in a Q&A session until asked to stop :)  
+Hacking C# - Simon Painter  
+I don't know about you, but I'm a lazy developer. What do I mean by lazy? I don't mean I don't want to do my work - far from it - I mean that I hate to write out a great deal of code to get the job done. I want to accomplish my goals with as little effort as possible.
+
+## [Virtual Azure Community Day](https://azureday.community/)  
+
+:date: July 28 2020, 1:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Where do all the sessions go when events and meetups are being canceled all over the world? We thought it would be fun to create a platform where we, as a community, can virtually get together and enjoy those sessions you don't want to miss out on. Join us for the second Virtual Azure Community Day! No stickers or socks, but 24 hours of technical geekery. There's multiple streams hosted from around the world.
+
+## [NDC { Melbourne } 2020](https://ndcmelbourne.com/)  
+
+:date: July 28-30 2020, 11:00 PM UTC  
+:globe_with_meridians: Online  
+:credit_card: $720 for 3-day pass  
+:speech_balloon: A 3-day online workshop event for software developers by NDC Conferences.
 
 ## [.NET Summit 2020 Online](https://dotnetsummit.by/)  
 
@@ -164,12 +144,18 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: 65 € until July 28th, then goes up by 30%  
 :speech_balloon: The 4th community-driven .NET conference dedicated to the practical experience of solving business challenges with .NET or technical challenges in .NET application. Another conference that moved to an online format.
 
+## [UG: .NET Oxford: TDD and the Terminator - with Layla Porter](https://www.meetup.com/dotnetoxford/events/270887803/)  
+
+:date: August 11 2020, 5:45 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Getting started with Test Driven Development (TDD) can be very challenging. It requires a different mindset and approach to writing and developing code. However, once in that mindset, it is very difficult not to write tests first. But why bother writing tests first? In this session, we will go through the reasons for writing tests before coding, look at architecture and design principles, such as SOLID and see how it all comes together to create a more testable and maintainable application.
+
 ## [NDC { TechTown } 2020](https://ndctechtown.com/)  
 
 :date: August 31 - September 3 2020, 7:00 AM UTC  
 :globe_with_meridians: Online  
 :credit_card: $700/$780 for 2-day conference pass, $1400/$1580 for the conference with workshops  
-:loudspeaker: [Call for Speakers](https://sessionize.com/ndc-techtown-2020-online-workshop-event/) is open until June 1st  
 :speech_balloon: A Software-Intensive Product Development Conference organized by NDC Conferences. NDC TechTown is a 4-day event with two days of high-quality workshops followed by two days of conference sessions. Although smaller than NDC Oslo, NDC Sydney, NDC London, NDC TechTown has the same high quality you would expect from any NDC conference.
 
 ## [NDC { Minnesota } 2020](https://ndcminnesota.com/)  
@@ -228,7 +214,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: October 12-16 2020, 11:00 PM UTC  
 :australia: Sydney, Australia  
 :credit_card: $1300/$1550 for 3-day conference pass, $2000/$2400 for the conference with workshops  
-:loudspeaker: [Call for Speakers](https://sessionize.com/ndc-sydney-2020/) is open until June 7th  
 :speech_balloon: The 5th annual NDC Conference in Australia. A five-day event with the same format as its European sisters NDC Oslo and NDC London. The conference will feature 5 tracks covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
 
 ## [Thrive Conference](https://www.thriveconf.com/en/Pages/Home.aspx)  
@@ -243,7 +228,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: October 13-15 2020, 1:00 PM UTC  
 :lithuania: Vilnius, Lithuania  
 :credit_card: 300€/459€ for a 2-day conference, 440€/632€ for a full ticket with the workshop  
-:loudspeaker: [Call for Speakers](https://testcon.lt/cfp/) is open  
 :speech_balloon: The leading event primarily aimed at Software Testers and Test Analysts, QA Engineers, Developers, Test Managers, Team Leads, and anyone willing to learn best practices and make their contribution to the smoother software development cycle and quality.
 
 ## [Tech Bash 2020](https://techbash.com/)  
@@ -251,14 +235,20 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: October 13-16 2020, TBA  
 :us: Pocono Manor, Pennsylvania, US  
 :credit_card: TBA  
-:speech_balloon: TechBash is a community-focused event and is not for profit. The sessions at TechBash will deliver bleeding edge advances in the coding, designing and development of mobile, web, desktop and SaaS applications. Our speakers are world class knowledge experts you may have seen featured at other conferences like DevIntersections, NDC, VS Live (Visual Studio Live), and Google I/O.
+:speech_balloon: TechBash is a community-focused event and is not for profit. The sessions at TechBash will deliver bleeding edge advances in the coding, designing and development of mobile, web, desktop and SaaS applications. Our speakers are world-class knowledge experts you may have seen featured at other conferences like DevIntersections, NDC, VS Live (Visual Studio Live), and Google I/O.
+
+## [All Things Open 2020](https://2020.allthingsopen.org/)  
+
+:date: October 18-20 2020, TBA  
+:us: Raleigh, North Carolina, US  
+:credit_card: TBA  
+:speech_balloon: Since 2013 some of the top experts and emerging thought leaders in the world have spoken. In 2019 leading and emerging companies from all over the world were sponsors and partners. 2019 was the biggest and best All Things Open Ever - 5000+ are expected in 2020. Speakers include: Scott Hanselman, Venkat Subramaniam, Chris Coyier, Ashley McNamara, Kent C Dodds, Una Kravets...
 
 ## [.NET DeveloperDays 2020](https://net.developerdays.pl/)  
 
 :date: October 20-21 2020, 7:00 AM UTC  
 :poland: Warsaw, Poland  
 :credit_card: 399 € for the conference without pre/post-conference events, until the end of May, then 499 € until the end of August, then 599 €  
-:loudspeaker: [Call for Speakers](https://sessionize.com/net-developerdays-2020) is open until May 31st  
 :speech_balloon: The biggest event in Central and Eastern Europe dedicated exclusively to application development on the .NET platform. It is designed for architects, developers, testers, and project managers using .NET in their work and to those who want to improve their knowledge and skills in this field. The conference content is 100% English, making it easy for the international audience to attend.
 
 ## [European Cloud Summit](https://www.cloudsummit.eu/)  
