@@ -13,77 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [DevSecCon24 2020](https://www.devseccon.com/devseccon24-2020/)  
-
-:date: June 15 2020, 2:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: The first virtual conference in the DevSecCon global conference series – all from the comfort of your home or office. Join us for 24 hours of inspiring talks about DevSecOps – the practice of building security into development processes. This is your chance to learn from key industry figures in a virtual environment and learn how DevOps and Security can work together to make continuously secure development a reality.
-
-## [DotNext Piter 2020](https://dotnext-piter.ru/en/)  
-
-:date: June 15-18 2020, 1:00 PM UTC  
-:globe_with_meridians: Online  
-:credit_card: 163-188 € for personal ticket  
-:speech_balloon: An online conference for .NET developers. The conference talks are devoted to: the present and the future of .NET platform, performance optimization, .NET platform inner workings, architecture and design patterns, .NET challenging problems and best practices.
-
-## [Collab365: GlobalCon2 Virtual Summit](https://content.collab365.community/collab365-globalcon2/)  
-
-:date: June 15-19 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free for watching the live stream  
-:credit_card: $139 for the all-access pass (has early-bird discounts)  
-:speech_balloon: A free, 5-day long online summit about Microsoft 365. Topics include: the latest tips, tricks, and guidance on Microsoft 365, Teams, SharePoint, Power Platform, Planner, and more...
-
-## [Microsoft European Virtual Open Source Summit](https://info.microsoft.com/we-azuremig-wbnr-fy20-06jun-16-virtualopensourcesummit-4917_01registration-forminbody.html)  
-
-:date: June 16 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A unique digital event, designed to celebrate communities, entrepreneurs, and developers coming together to build the future of open source technologies in the cloud. Expert guest speakers will be deep-diving into a wide variety of topics, from chaos engineering and building serverless architecture to multicloud app development.
-
-## [AWS Summit Online, Europe, Middle East & Africa](https://aws.amazon.com/events/summits/online/emea/)  
-
-:date: June 17 2020, 8:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Hear from your local AWS country leaders about the latest trends, customers, and partners in your market, followed by the opening keynote with Werner Vogels, CTO, Amazon.com. After the keynote, dive deep in 55 breakout sessions across 11 tracks, including getting started, building advanced architectures, app development, DevOps, and more.
-
-## [Adobe 99U Conference](https://conference.99u.com/)  
-
-:date: June 17 2020, 2:30 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: What does it mean to be a creative? This year's 99U Conference is a call to unpack our creative identities, exploring how to establish our purpose, nurture our talent, and define success on our own terms. We're transforming the in-person event into a digital experience that any creative can join free of charge, live June 17 on Behance. Register now.
-
-## [Postman Webinar: "Working with the Twitter API Using Postman"](https://www.postman.com/webinars/twitter-labs-api/)  
-
-:date: June 17 2020, 6:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: In this webinar, the Postman-and-Twitter dream team of Kin, Daniele, and Suhem will walk you through different versions of the Twitter API and explore what’s possible when you combine the capabilities of Postman and Twitter.
-
-## [JSNation Live](https://live.jsnation.com/)  
-
-:date: June 18-19 2020, 1:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free with a paid option for higher streaming quality and recordings  
-:speech_balloon: The biggest JavaScript conference in the cloud. A 2-day conference on all things JavaScript, gathering international software engineers in the cloud. Speakers include: Jen Looper, John Papa, Bruce Lawson...
-
-## [The Live Coders Conference](https://captcalli.github.io/LiveCodersConf/)  
-
-:date: June 20 2020, TBA  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: The Live Coders, an outgoing and enthusiastic group of friendly channels that write code, teach about technology, and promote the technical community is organizing a free (all-day) online conference for everyone on Twitch, with talks covering various topics.
-
-## [Apple Worldwide Developer Conference 2020](https://developer.apple.com/wwdc20/)  
-
-:date: June 22 2020, TBA  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Apple says that the online event will allow millions of creative and innovative developers to get access to future versions of iOS, iPadOS, macOS, watchOS, and tvOS, as well as engage with Apple engineers. Apple plans to hold a keynote event to announce new software, presumably on June 22 when WWDC begins. https://www.macrumors.com/roundup/wwdc/
-
 ## [Flutter Day](https://events.withgoogle.com/flutter-day/)  
 
 :date: June 25 2020, 4:00 PM UTC  
@@ -111,6 +40,20 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: The first global digital API conference. INTERFACE, by apidays will gather our best past 7 years speakers, our entire global community, and the API landscape leaders around our most popular topics.
+
+## [Seavus Code Talks Remote Event](https://codetalks.seavus.com/seavus-code-talks-remote-event-07072020)  
+
+:date: July 7 2020, 4:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: "Progressive Web Application (Angular PWA)" by Dean Jakovlevski and "Building an auth microservice with ASP.NET Core Identity and IdentityServer" by Miroslav Popovic (yours truly).
+
+## [JetBrains ReSharper webinar: How to stop worrying and adopt nullable reference types](https://info.jetbrains.com/resharper-webinar-july-2020.html)  
+
+:date: July 9 2020, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Nullable reference types is a deceptively simple feature. While starting with it is as easy as adding a single ? mark to your source code, migrating large code bases has been proven to be a tedious and sometimes quite tricky task especially when complex code contracts and generics are involved. The presentation will quickly cover what benefits this feature brings to the table, how it differs from JetBrains.Annotations attributes and how it evolved since its original release almost a year ago.
 
 ## [UG: .NET Oxford: Hacking C# and REST Q&A](https://www.meetup.com/dotnetoxford/events/271157459/)  
 
@@ -150,6 +93,13 @@ I don't know about you, but I'm a lazy developer. What do I mean by lazy? I don'
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: Getting started with Test Driven Development (TDD) can be very challenging. It requires a different mindset and approach to writing and developing code. However, once in that mindset, it is very difficult not to write tests first. But why bother writing tests first? In this session, we will go through the reasons for writing tests before coding, look at architecture and design principles, such as SOLID and see how it all comes together to create a more testable and maintainable application.
+
+## [UnoConf 2020](https://unoconf.com/)  
+
+:date: August 12 2020, 4:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: UnoConf 2020 will be an online conference for the complete Uno community – engineering team, influencers, code contributors as well as those wishing to learn more about it. UnoConf 2020 will bring together speakers from Microsoft, our core team and community for a ½ day online event. Stay tuned for the agenda as due to the pandemic we are forced to reshuffle our originally published agenda.
 
 ## [NDC { TechTown } 2020](https://ndctechtown.com/)  
 
