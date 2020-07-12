@@ -80,6 +80,13 @@ I don't know about you, but I'm a lazy developer. What do I mean by lazy? I don'
 :credit_card: $720 for 3-day pass  
 :speech_balloon: A 3-day online workshop event for software developers by NDC Conferences.
 
+## [.NET Conf "Focus on Microservices"](https://focus.dotnetconf.net/)  
+
+:date: July 30 2020, 16:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free   
+:speech_balloon: .NET Conf: Focus on Microservices is a free, one-day livestream event that features speakers from the community and .NET teams that are working on designing and building microservice-based applications, tools and frameworks. Learn from the experts their best practices, practical advice, as well as patterns, tools, tips and tricks for successfully designing, building, deploying and running cloud native applications at scale with .NET..
+
 ## [.NET Summit 2020 Online](https://dotnetsummit.by/)  
 
 :date: August 7-8 2020, TBA  
