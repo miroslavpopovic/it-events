@@ -11,6 +11,12 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :arrow_forward: Event recordings  
 :page_facing_up: Source code and samples
 
+## [Seavus Code Talks Remote Event](https://codetalks.seavus.com/seavus-code-talks-remote-event-07072020)  
+
+:date: July 7 2020  
+:speech_balloon: "Progressive Web Application (Angular PWA)" by Dean Jakovlevski and "Building an auth microservice with ASP.NET Core Identity and IdentityServer" by Miroslav Popovic (yours truly).
+:arrow_forward: [Recordings](https://youtu.be/BW8MecfuCKk)  
+
 ## [UG: .NET Oxford: Scott Hunter - .NET 5 and MS Build Announcements](https://www.meetup.com/dotnetoxford/events/270602478/)  
 
 :date: June 9 2020  

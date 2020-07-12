@@ -13,47 +13,26 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [Flutter Day](https://events.withgoogle.com/flutter-day/)  
+## [live@Manning conferences: Python](https://freecontent.manning.com/livemanning-conferences-python/)  
 
-:date: June 25 2020, 4:00 PM UTC  
+:date: July 14 2020, 4:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: Join us for a full 24-hours of codelabs and Q&A hosted by the official Flutter team! We'll also have three talks diving in deeper on some of the recent announcements this spring. Following this event, there will be a community-driven Flutter hackathon.
+:speech_balloon: A free one-day conference about Python organized by Manning publisher. Featuring four regular talks from expert speakers, plus ten-minute lightning talks. Streamed globally via Twitch.
 
-## [.NET Core Summer Event 2020](https://www.dncse.nl/)  
+## [Google Cloud Next ’20: OnAir](https://cloud.withgoogle.com/next/sf)  
 
-:date: June 27 2020, 9:00 AM UTC  
+:date: July 14 - September 8 2020, TBD  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: A one-day mini-conference focused on software development with .NET Core. The program will feature an international speaker line-up. The speakers include: Irina Scurtu, Steve Gordon, Konrad Kokosa...
+:speech_balloon: It’s a nine-week, all-digital event series with fresh content delivered weekly, including keynotes, breakout sessions, learning opportunities, Q&A, and 1:1 interactions with Google Experts. You’ll connect with attendees, get inspired to innovate, and gain knowledge on how to solve your most important challenges.
 
-## [ITkonekt Belgrade](https://itkonekt.com/)  
+## [UG: Azure Serbia: Manage and govern your hybrid servers using Azure Arc with Thomas Maurer](https://www.meetup.com/azure-serbia/events/271375315/)  
 
-:date: June 27-28 2020, TBA  
-:serbia: Belgrade, Serbia  
-:credit_card: TBA  
-:speech_balloon: A two-day conference organized by the Serbian IT community. The ITkonekt event is made of several segments that happen at the same time: IT job fair, IT conference, Gaming segment, IT stories, and various other workshops and secondary events. Over 150 foreign and local lecturers were speaking at this conference in the past, with speakers like Uncle Bob (Robert C. Martin), Venkat Subramaniam, Zoran Horvat, Håkon Wium Lie, Jon Galloway...
-
-## [INTERFACE by apidays](https://www.apidays.co/interface)  
-
-:date: June 30 - July 1 2020, TBD  
+:date: July 14 2020, 4:30 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: The first global digital API conference. INTERFACE, by apidays will gather our best past 7 years speakers, our entire global community, and the API landscape leaders around our most popular topics.
-
-## [Seavus Code Talks Remote Event](https://codetalks.seavus.com/seavus-code-talks-remote-event-07072020)  
-
-:date: July 7 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: "Progressive Web Application (Angular PWA)" by Dean Jakovlevski and "Building an auth microservice with ASP.NET Core Identity and IdentityServer" by Miroslav Popovic (yours truly).
-
-## [JetBrains ReSharper webinar: How to stop worrying and adopt nullable reference types](https://info.jetbrains.com/resharper-webinar-july-2020.html)  
-
-:date: July 9 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Nullable reference types is a deceptively simple feature. While starting with it is as easy as adding a single ? mark to your source code, migrating large code bases has been proven to be a tedious and sometimes quite tricky task especially when complex code contracts and generics are involved. The presentation will quickly cover what benefits this feature brings to the table, how it differs from JetBrains.Annotations attributes and how it evolved since its original release almost a year ago.
+:speech_balloon: Thomas Maurer shows you how you can manage and govern your Windows and Linux machines hosted outside of Azure on your corporate network or other cloud providers, similar to how you manage native Azure virtual machines. When a hybrid machine is connected to Azure, it becomes a connected machine and is treated as a resource in Azure. Azure Arc provides you with the familiar cloud-native Azure management experience, like RBAC, Tags, Azure Policy, Log Analytics, and more.
 
 ## [UG: .NET Oxford: Hacking C# and REST Q&A](https://www.meetup.com/dotnetoxford/events/271157459/)  
 
@@ -84,8 +63,8 @@ I don't know about you, but I'm a lazy developer. What do I mean by lazy? I don'
 
 :date: July 30 2020, 16:00 PM UTC  
 :globe_with_meridians: Online  
-:free: Free   
-:speech_balloon: .NET Conf: Focus on Microservices is a free, one-day livestream event that features speakers from the community and .NET teams that are working on designing and building microservice-based applications, tools and frameworks. Learn from the experts their best practices, practical advice, as well as patterns, tools, tips and tricks for successfully designing, building, deploying and running cloud native applications at scale with .NET..
+:free: Free  
+:speech_balloon: .NET Conf: Focus on Microservices is a free, one-day live stream event that features speakers from the community and .NET teams that are working on designing and building microservice-based applications, tools and frameworks. Learn from the experts their best practices, practical advice, as well as patterns, tools, tips and tricks for successfully designing, building, deploying and running cloud-native applications at scale with .NET.
 
 ## [.NET Summit 2020 Online](https://dotnetsummit.by/)  
 
@@ -115,12 +94,26 @@ I don't know about you, but I'm a lazy developer. What do I mean by lazy? I don'
 :credit_card: $700/$780 for 2-day conference pass, $1400/$1580 for the conference with workshops  
 :speech_balloon: A Software-Intensive Product Development Conference organized by NDC Conferences. NDC TechTown is a 4-day event with two days of high-quality workshops followed by two days of conference sessions. Although smaller than NDC Oslo, NDC Sydney, NDC London, NDC TechTown has the same high quality you would expect from any NDC conference.
 
+## [CascadiaJS 2020](https://2020.cascadiajs.com/)  
+
+:date: September 1-2 2020, TBA  
+:globe_with_meridians: Online  
+:credit_card: $129/$149  
+:speech_balloon: CascadiaJS was started in 2012 by web developers in the Pacific Northwest to better connect and celebrate the amazing work of communities across the region. Last year we had 560+ developers enjoy talks from 36 amazing speakers who covered everything from JavaScript to the distributed web to building healthy engineering teams.
+
 ## [NDC { Minnesota } 2020](https://ndcminnesota.com/)  
 
 :date: September 8-11 2020, 2:00 PM UTC  
 :us: Minneapolis, USA  
 :credit_card: $1200/$1400 for 2-day pass, $1900/$2200 for all  
 :speech_balloon: A 4-day event for software developers that features 2 days of workshops and 2 days of conference sessions. The conference will be covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
+
+## [UG: .NET Oxford: Scott Hanselman!](https://www.meetup.com/dotnetoxford/events/271812676/)  
+
+:date: September 8 2020, 5:45 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: We've very excited to be joined by the one and only Scott Hanselman in September! Can you really use Windows to develop Linux apps? How real is WSL (Windows Subsystem for Linux) and how close is it to reality? Join Scott Hanselman as he walks you through the state of the art of Linux on Windows. What's possible, what's not, what about the Windows Terminal and Docker? Tons of live demos in this highly technical session!
 
 ## [Shift Dev Conference 2020](https://dev.shiftconf.co/)  
 
