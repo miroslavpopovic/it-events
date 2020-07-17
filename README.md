@@ -13,13 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [live@Manning conferences: Python](https://freecontent.manning.com/livemanning-conferences-python/)  
-
-:date: July 14 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A free one-day conference about Python organized by Manning publisher. Featuring four regular talks from expert speakers, plus ten-minute lightning talks. Streamed globally via Twitch.
-
 ## [Google Cloud Next ’20: OnAir](https://cloud.withgoogle.com/next/sf)  
 
 :date: July 14 - September 8 2020, TBD  
@@ -27,23 +20,12 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: It’s a nine-week, all-digital event series with fresh content delivered weekly, including keynotes, breakout sessions, learning opportunities, Q&A, and 1:1 interactions with Google Experts. You’ll connect with attendees, get inspired to innovate, and gain knowledge on how to solve your most important challenges.
 
-## [UG: Azure Serbia: Manage and govern your hybrid servers using Azure Arc with Thomas Maurer](https://www.meetup.com/azure-serbia/events/271375315/)  
+## [Microsoft Inspire](https://partner.microsoft.com/en-US/inspire/)  
 
-:date: July 14 2020, 4:30 PM UTC  
+:date: July 21 2020, 3:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: Thomas Maurer shows you how you can manage and govern your Windows and Linux machines hosted outside of Azure on your corporate network or other cloud providers, similar to how you manage native Azure virtual machines. When a hybrid machine is connected to Azure, it becomes a connected machine and is treated as a resource in Azure. Azure Arc provides you with the familiar cloud-native Azure management experience, like RBAC, Tags, Azure Policy, Log Analytics, and more.
-
-## [UG: .NET Oxford: Hacking C# and REST Q&A](https://www.meetup.com/dotnetoxford/events/271157459/)  
-
-:date: July 14 2020, 5:45 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon:  
-20 years of ReST, are we there yet? - Sebastien Lambla  
-ReST was formalized 20 years ago now, and continues to be a source of debate amongst developers. Sebastien has been coding such systems since the noughties. In this session he’ll do a quick overview of the state of ReST today, and will then engage with all attendees in a Q&A session until asked to stop :)  
-Hacking C# - Simon Painter  
-I don't know about you, but I'm a lazy developer. What do I mean by lazy? I don't mean I don't want to do my work - far from it - I mean that I hate to write out a great deal of code to get the job done. I want to accomplish my goals with as little effort as possible.
+:speech_balloon: Now is the time. Join your global partner community for the Microsoft Inspire digital event experience. Register today and get ready to extend your partner network as we explore what’s coming in the year ahead and work together to find shared solutions for our customers.
 
 ## [Virtual Azure Community Day](https://azureday.community/)  
 
