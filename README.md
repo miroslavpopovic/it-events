@@ -69,6 +69,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: UnoConf 2020 will be an online conference for the complete Uno community – engineering team, influencers, code contributors as well as those wishing to learn more about it. UnoConf 2020 will bring together speakers from Microsoft, our core team and community for a ½ day online event. Stay tuned for the agenda as due to the pandemic we are forced to reshuffle our originally published agenda.
 
+## [ReactJS Global Summit](https://react.geekle.us/)  
+
+:date: August 20 2020, TBD  
+:globe_with_meridians: Online  
+:credit_card: $49 - $300, Free for juniors  
+:speech_balloon: Watch live stream, access to Q&A sessions, workshops, access to recordings, Slack chat access.
+
 ## [NDC { TechTown } 2020](https://ndctechtown.com/)  
 
 :date: August 31 - September 3 2020, 7:00 AM UTC  
