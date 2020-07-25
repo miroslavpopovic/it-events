@@ -20,13 +20,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: It’s a nine-week, all-digital event series with fresh content delivered weekly, including keynotes, breakout sessions, learning opportunities, Q&A, and 1:1 interactions with Google Experts. You’ll connect with attendees, get inspired to innovate, and gain knowledge on how to solve your most important challenges.
 
-## [Microsoft Inspire](https://partner.microsoft.com/en-US/inspire/)  
-
-:date: July 21 2020, 3:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Now is the time. Join your global partner community for the Microsoft Inspire digital event experience. Register today and get ready to extend your partner network as we explore what’s coming in the year ahead and work together to find shared solutions for our customers.
-
 ## [Virtual Azure Community Day](https://azureday.community/)  
 
 :date: July 28 2020, 1:00 AM UTC  
@@ -34,12 +27,26 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: Where do all the sessions go when events and meetups are being canceled all over the world? We thought it would be fun to create a platform where we, as a community, can virtually get together and enjoy those sessions you don't want to miss out on. Join us for the second Virtual Azure Community Day! No stickers or socks, but 24 hours of technical geekery. There's multiple streams hosted from around the world.
 
+## [apidays LIVE NEW YORK](https://www.apidays.co/newyork/)  
+
+:date: July 28-29 2020, 1:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Apidays LIVE New York will help you discover what are the best business cases and technical best practices to successfully start and scale an API program, and what are the challenges of API policies and what to expect in banking, healthcare, retail and insurance.
+
 ## [NDC { Melbourne } 2020](https://ndcmelbourne.com/)  
 
 :date: July 28-30 2020, 11:00 PM UTC  
 :globe_with_meridians: Online  
 :credit_card: $720 for 3-day pass  
 :speech_balloon: A 3-day online workshop event for software developers by NDC Conferences.
+
+## [SciFiDevCon 2020](https://www.scifidevcon.com/)  
+
+:date: July 29-31 2020, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:credit_card: $100  
+:speech_balloon: Who doesn't love development? Who doesn't love SciFi/Fantasy/Comics? Who thinks combinations of the two are going to be even better? Stay home and avoid the con-crud. Learn cool stuff from industry and thought leaders. Embrace sci-fi/fantasy/culture in the process. Have a great 3-day conference to gap-fill and scratch our conference itch until we can get our favorite in-person events back.
 
 ## [.NET Conf "Focus on Microservices"](https://focus.dotnetconf.net/)  
 
