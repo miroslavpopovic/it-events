@@ -157,6 +157,13 @@ Another open-source and crowd-sourced list of conferences around software develo
 :credit_card: TBA  
 :speech_balloon: TechBash is a community-focused event and is not for profit. The sessions at TechBash will deliver bleeding edge advances in the coding, designing and development of mobile, web, desktop and SaaS applications. Our speakers are world-class knowledge experts you may have seen featured at other conferences like DevIntersections, NDC, VS Live (Visual Studio Live), and Google I/O.
 
+## [#DataWeekender #TheSQL](https://www.meetup.com/DataWeekender/events/272258429/)  
+
+:date: October 17 2020, 7:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: #DataWeekender is back for its second running on the 17th Oct 2020. Hosted by various data professionals, it is free to attend. The full schedule and speaker list will be on [https://www.dataweekender.com](https://www.dataweekender.com).
+
 ## [All Things Open 2020](https://2020.allthingsopen.org/)  
 
 :date: October 18-20 2020, TBA  
