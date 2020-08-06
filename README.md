@@ -24,10 +24,19 @@ Another open-source and crowd-sourced list of conferences around software develo
 :free: Free  
 :speech_balloon: It’s a nine-week, all-digital event series with fresh content delivered weekly, including keynotes, breakout sessions, learning opportunities, Q&A, and 1:1 interactions with Google Experts. You’ll connect with attendees, get inspired to innovate, and gain knowledge on how to solve your most important challenges.
 
-:date: August 7-8 2020, TBA  
+## [.NET Summit 2020](https://dotnetsummit.by/)
+
+:date: August 7-8 2020, 2:00 PM UTC  
 :globe_with_meridians: Online  
 :credit_card: 65 € until July 28th, then goes up by 30%  
 :speech_balloon: The 4th community-driven .NET conference dedicated to the practical experience of solving business challenges with .NET or technical challenges in .NET application. Another conference that moved to an online format.
+
+## [Azure Virtual Conference](https://www.2020twenty.net/azure/)  
+
+:date: August 7-8 2020, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
 
 ## [UG: .NET Oxford: TDD and the Terminator - with Layla Porter](https://www.meetup.com/dotnetoxford/events/270887803/)  
 
@@ -84,6 +93,14 @@ Another open-source and crowd-sourced list of conferences around software develo
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: We've very excited to be joined by the one and only Scott Hanselman in September! Can you really use Windows to develop Linux apps? How real is WSL (Windows Subsystem for Linux) and how close is it to reality? Join Scott Hanselman as he walks you through the state of the art of Linux on Windows. What's possible, what's not, what about the Windows Terminal and Docker? Tons of live demos in this highly technical session!
+
+## [React Virtual Conference](https://www.2020twenty.net/react/)  
+
+:date: September 11 2020, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:loudspeaker: [Call for Speakers](https://sessionize.com/react-virtual-conference) is open until August 15th  
+:speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
 
 ## [Shift Dev Conference 2020](https://dev.shiftconf.co/)  
 
@@ -157,6 +174,14 @@ Another open-source and crowd-sourced list of conferences around software develo
 :credit_card: TBA  
 :speech_balloon: TechBash is a community-focused event and is not for profit. The sessions at TechBash will deliver bleeding edge advances in the coding, designing and development of mobile, web, desktop and SaaS applications. Our speakers are world-class knowledge experts you may have seen featured at other conferences like DevIntersections, NDC, VS Live (Visual Studio Live), and Google I/O.
 
+## [.NET Virtual Conference](https://www.2020twenty.net/dotnet/)  
+
+:date: October 16 2020, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:loudspeaker: [Call for Speakers](https://sessionize.com/dotnet-virtual-conference/) is open until September 30th  
+:speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
+
 ## [#DataWeekender #TheSQL](https://www.meetup.com/DataWeekender/events/272258429/)  
 
 :date: October 17 2020, 7:00 AM UTC  
@@ -227,7 +252,7 @@ Another open-source and crowd-sourced list of conferences around software develo
 :date: November 10-12 2020, 4:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: .NET Conf is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th annivesary and we're working on a few more suprises. You won't want to miss this one.
+:speech_balloon: .NET Conf is a free, three-day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.
 
 ## [NetWork 10](https://www.networkkonferencija.ba/)
 
@@ -244,6 +269,14 @@ Another open-source and crowd-sourced list of conferences around software develo
 :credit_card: TBD  
 :loudspeaker: [Call for Speakers](https://sessionize.com/update-conference-prague-2020/) is open until June 30  
 :speech_balloon: Update Conference Prague is the biggest .NET developer conference in the Czech Republic. The conference features three halls and more than 40 technical sessions led by top experts from Europe, USA and other countries.
+
+## [Blockchain Virtual Conference](https://www.2020twenty.net/blockchain/)  
+
+:date: November 22-24 2020, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:loudspeaker: [Call for Speakers](https://sessionize.com/blockchain-virtual-conference/) is open until September 30th  
+:speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
 
 ## [Big Data Conference Europe 2020](https://bigdataconference.lt/)  
 
