@@ -13,30 +13,12 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [confs.tech](https://confs.tech/)
-
-Another open-source and crowd-sourced list of conferences around software development.
-
 ## [Google Cloud Next ’20: OnAir](https://cloud.withgoogle.com/next/sf)  
 
 :date: July 14 - September 8 2020, TBD  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: It’s a nine-week, all-digital event series with fresh content delivered weekly, including keynotes, breakout sessions, learning opportunities, Q&A, and 1:1 interactions with Google Experts. You’ll connect with attendees, get inspired to innovate, and gain knowledge on how to solve your most important challenges.
-
-## [.NET Summit 2020](https://dotnetsummit.by/)
-
-:date: August 7-8 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:credit_card: 65 € until July 28th, then goes up by 30%  
-:speech_balloon: The 4th community-driven .NET conference dedicated to the practical experience of solving business challenges with .NET or technical challenges in .NET application. Another conference that moved to an online format.
-
-## [Azure Virtual Conference](https://www.2020twenty.net/azure/)  
-
-:date: August 7-8 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
 
 ## [UG: .NET Oxford: TDD and the Terminator - with Layla Porter](https://www.meetup.com/dotnetoxford/events/270887803/)  
 
@@ -52,12 +34,12 @@ Another open-source and crowd-sourced list of conferences around software develo
 :free: Free  
 :speech_balloon: UnoConf 2020 will be an online conference for the complete Uno community – engineering team, influencers, code contributors as well as those wishing to learn more about it. UnoConf 2020 will bring together speakers from Microsoft, our core team and community for a ½ day online event. Stay tuned for the agenda as due to the pandemic we are forced to reshuffle our originally published agenda.
 
-## [ReactJS Global Summit](https://react.geekle.us/)  
+## [Virtual RustConf 2020](https://rustconf.com/)  
 
-:date: August 20 2020, TBD  
+:date: August 20 2020, 4:30 PM UTC  
 :globe_with_meridians: Online  
-:credit_card: $49 - $300, Free for juniors  
-:speech_balloon: Watch live stream, access to Q&A sessions, workshops, access to recordings, Slack chat access.
+:credit_card: $5 for students and unemployed, $99 for employed  
+:speech_balloon: RustConf gathers developers from around the world to learn and share with one another... and this time it's virtual.
 
 ## [NDC { TechTown } 2020](https://ndctechtown.com/)  
 
@@ -109,6 +91,13 @@ Another open-source and crowd-sourced list of conferences around software develo
 :credit_card: 200-480 €  
 :speech_balloon: A two-day single-stage developer event, consisting of a balance of educational and inspirational talks, delivered with a side of workshops and networking events located on the beautiful Mediterranean coast.
 
+## [ReactJS Global Summit](https://react.geekle.us/)  
+
+:date: September 15 2020, TBA  
+:globe_with_meridians: Online  
+:credit_card: $79 - $300, Free for juniors  
+:speech_balloon: Watch live stream, access to Q&A sessions, workshops, access to recordings, Slack chat access.
+
 ## [Future Tech 2020](https://futuretech.nl/)  
 
 :date: September 16 2020, TBA  
@@ -139,12 +128,12 @@ Another open-source and crowd-sourced list of conferences around software develo
 :credit_card: 500 € for the Technology conference  
 :speech_balloon: The biggest Croatian technological conference has two parts - Business and Technology, spaning in four days, which will share a common conference theme: artificial intelligence, a technology that will completely change the way we do business and live. The organizer expects that the 20th edition will gather more than 2000 participants who will be able to listen to more than 150 sessions.
 
-## [Dotnetos 2020](https://conf.dotnetos.org/)  
+## [Dotnetos Week](https://week.dotnetos.org/)  
 
-:date: October 1-2 2020, 6:00 AM UTC  
-:poland: Warsaw, Poland  
-:credit_card: 352 € until the end of August, then 478 €  
-:speech_balloon: A premium, two-day conference focused on the .NET Core and .NET performance. Top-notch speakers from around the globe and companies like Microsoft or JetBrains. Chance to meet well-known people from the .NET community in person!
+:date: September 28 to October 2 2020, 5:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: We understand that the current COVID-19 situation might impact your health, work, employment situation and overall life balance. To help you in these demanding times, instead of focusing on our on-site Dotnetos Conference that might impact the mentioned areas of life, we want to bring you something different. We hope that making it accessible, just like that, will help you somehow in this situation.
 
 ## [NDC { Sydney } 2020](https://ndcsydney.com/)  
 
@@ -326,6 +315,16 @@ The conference covers the core principles how to leverage all your data on-premi
 :switzerland: Mainz/Frankfurt, Germany  
 :credit_card: 350 CHF until the end of January, then 399 CHF until the end of February, then 499 CHF  
 :speech_balloon: An independent technology conference for developers, architects, and experts to discuss and get to know .NET technologies all around .NET, .NET Core, C#, ASP.NET Core, Azure, and more. Experienced speakers share their knowledge on the latest topics and give you deep insights into the new world of Microsoft software development and beyond. In addition to the technical talks, .NET Day provides a space for discussions with the speakers and other attendees.
+
+## Other lists
+
+### [confs.tech](https://confs.tech/)
+
+Another open-source and crowd-sourced list of conferences around software development.
+
+### [Mozilla Developer Community Events](https://mozilla.dev/events/)
+
+A list of upcoming conferences that Mozilla is supporting.
 
 ## Attribution
 
