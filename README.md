@@ -20,20 +20,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: It’s a nine-week, all-digital event series with fresh content delivered weekly, including keynotes, breakout sessions, learning opportunities, Q&A, and 1:1 interactions with Google Experts. You’ll connect with attendees, get inspired to innovate, and gain knowledge on how to solve your most important challenges.
 
-## [UG: .NET Oxford: TDD and the Terminator - with Layla Porter](https://www.meetup.com/dotnetoxford/events/270887803/)  
-
-:date: August 11 2020, 5:45 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Getting started with Test Driven Development (TDD) can be very challenging. It requires a different mindset and approach to writing and developing code. However, once in that mindset, it is very difficult not to write tests first. But why bother writing tests first? In this session, we will go through the reasons for writing tests before coding, look at architecture and design principles, such as SOLID and see how it all comes together to create a more testable and maintainable application.
-
-## [UnoConf 2020](https://unoconf.com/)  
-
-:date: August 12 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: UnoConf 2020 will be an online conference for the complete Uno community – engineering team, influencers, code contributors as well as those wishing to learn more about it. UnoConf 2020 will bring together speakers from Microsoft, our core team and community for a ½ day online event. Stay tuned for the agenda as due to the pandemic we are forced to reshuffle our originally published agenda.
-
 ## [Virtual RustConf 2020](https://rustconf.com/)  
 
 :date: August 20 2020, 4:30 PM UTC  
@@ -192,19 +178,12 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: 399 € for the conference without pre/post-conference events, until the end of May, then 499 € until the end of August, then 599 €  
 :speech_balloon: The biggest event in Central and Eastern Europe dedicated exclusively to application development on the .NET platform. It is designed for architects, developers, testers, and project managers using .NET in their work and to those who want to improve their knowledge and skills in this field. The conference content is 100% English, making it easy for the international audience to attend.
 
-## [European Cloud Summit](https://www.cloudsummit.eu/)  
+## [European Collaboration Summit - Online Learning Day 2020](https://www.learningday.net/)  
 
-:date: October 20-22 2020, TBA  
-:de: Mainz/Frankfurt, Germany  
-:credit_card: 390 € until the end of June, then 440 € until the end of August, then 490 €; 780/970/950 € for full conference pass  
-:speech_balloon: A premium technology conference focusing on Microsoft Azure and cloud computing topics. Speakers include: Clemens Vasters, Jessica Deen, Rainer Stropek, Damir Dobric, Mustafa Toroman, Sasha Kranjac, Toni Pohl, Magnus Mårtensson, Adis Jugo, Spenser Harbar...
-
-## [European Collaboration Summit](https://www.collabsummit.eu/)  
-
-:date: October 26-28 2020, TBA  
-:de: Wiesbaden, Germany  
-:credit_card: 300 €, or 500 € for full conference pass  
-:speech_balloon: The leading and the largest European conference about everything Microsoft 365, Teams, SharePoint, Power Platform, and Business Apps. Speakers include: Dan Holme, Dona Sarkar, Vesa Juvonen, Adis Jugo, Agnes Molnar, Omar Kudovic, Damir Dizdarevic, Damir Dobric, Dragan Panjkov, Edin Kapic...
+:date: October 26 2020, TBA  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Collabsummit and Cloudsummit are not taking place this year, but we will be, together with well-known Microsoft MVPs and Microsoft Regional Directors, as well as with our sponsors, delivering a Learning Day, with six community-run full day tutorials, and a few sponsor-run few day tutorials.
 
 ## [European Cloud Conference](https://europeancloudconference.com/)  
 
@@ -315,6 +294,20 @@ The conference covers the core principles how to leverage all your data on-premi
 :switzerland: Mainz/Frankfurt, Germany  
 :credit_card: 350 CHF until the end of January, then 399 CHF until the end of February, then 499 CHF  
 :speech_balloon: An independent technology conference for developers, architects, and experts to discuss and get to know .NET technologies all around .NET, .NET Core, C#, ASP.NET Core, Azure, and more. Experienced speakers share their knowledge on the latest topics and give you deep insights into the new world of Microsoft software development and beyond. In addition to the technical talks, .NET Day provides a space for discussions with the speakers and other attendees.
+
+## [European Collaboration Summit](https://www.collabsummit.eu/)  
+
+:date: June 14-16 2021, TBA  
+:de: Wiesbaden, Germany  
+:credit_card: 300 €, or 500 € for full conference pass  
+:speech_balloon: The leading and the largest European conference about everything Microsoft 365, Teams, SharePoint, Power Platform, and Business Apps. Speakers include: Dan Holme, Dona Sarkar, Vesa Juvonen, Adis Jugo, Agnes Molnar, Omar Kudovic, Damir Dizdarevic, Damir Dobric, Dragan Panjkov, Edin Kapic...
+
+## [European Cloud Summit](https://www.cloudsummit.eu/)  
+
+:date: September 27-29 2021, TBA  
+:de: Mainz/Frankfurt, Germany  
+:credit_card: 300 €, 780/970/950 € for full conference pass  
+:speech_balloon: A premium technology conference focusing on Microsoft Azure and cloud computing topics. Speakers include: Clemens Vasters, Jessica Deen, Rainer Stropek, Damir Dobric, Mustafa Toroman, Sasha Kranjac, Toni Pohl, Magnus Mårtensson, Adis Jugo, Spenser Harbar...
 
 ## Other lists
 
