@@ -13,34 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [Google Cloud Next ’20: OnAir](https://cloud.withgoogle.com/next/sf)  
-
-:date: July 14 - September 8 2020, TBD  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: It’s a nine-week, all-digital event series with fresh content delivered weekly, including keynotes, breakout sessions, learning opportunities, Q&A, and 1:1 interactions with Google Experts. You’ll connect with attendees, get inspired to innovate, and gain knowledge on how to solve your most important challenges.
-
-## [Virtual RustConf 2020](https://rustconf.com/)  
-
-:date: August 20 2020, 4:30 PM UTC  
-:globe_with_meridians: Online  
-:credit_card: $5 for students and unemployed, $99 for employed  
-:speech_balloon: RustConf gathers developers from around the world to learn and share with one another... and this time it's virtual.
-
-## [NDC { TechTown } 2020](https://ndctechtown.com/)  
-
-:date: August 31 - September 3 2020, 7:00 AM UTC  
-:globe_with_meridians: Online  
-:credit_card: $700/$780 for 2-day conference pass, $1400/$1580 for the conference with workshops  
-:speech_balloon: A Software-Intensive Product Development Conference organized by NDC Conferences. NDC TechTown is a 4-day event with two days of high-quality workshops followed by two days of conference sessions. Although smaller than NDC Oslo, NDC Sydney, NDC London, NDC TechTown has the same high quality you would expect from any NDC conference.
-
-## [CascadiaJS 2020](https://2020.cascadiajs.com/)  
-
-:date: September 1-2 2020, TBA  
-:globe_with_meridians: Online  
-:credit_card: $129/$149  
-:speech_balloon: CascadiaJS was started in 2012 by web developers in the Pacific Northwest to better connect and celebrate the amazing work of communities across the region. Last year we had 560+ developers enjoy talks from 36 amazing speakers who covered everything from JavaScript to the distributed web to building healthy engineering teams.
-
 ## [CONFidence 2020](https://confidence-conference.org/)  
 
 :date: September 7-9 2020, 8:00 AM UTC  
@@ -106,14 +78,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: A one-day, two-track, free AWS conference organized by the AWS community. The goal of the conference is to gather all these who are interested in AWS, to network, learn from each other, and get inspired. This conference was initially planned for April, but got postponed to September.
 
-## [WinDays 2020](https://www.windays.hr/en/)  
-
-:date: September 28 to October 1 2020, TBA  
-:gb: :croatia: English and Croatian languages  
-:croatia: Rovinj, Croatia  
-:credit_card: 500 € for the Technology conference  
-:speech_balloon: The biggest Croatian technological conference has two parts - Business and Technology, spaning in four days, which will share a common conference theme: artificial intelligence, a technology that will completely change the way we do business and live. The organizer expects that the 20th edition will gather more than 2000 participants who will be able to listen to more than 150 sessions.
-
 ## [Dotnetos Week](https://week.dotnetos.org/)  
 
 :date: September 28 to October 2 2020, 5:00 PM UTC  
@@ -170,6 +134,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :us: Raleigh, North Carolina, US  
 :credit_card: TBA  
 :speech_balloon: Since 2013 some of the top experts and emerging thought leaders in the world have spoken. In 2019 leading and emerging companies from all over the world were sponsors and partners. 2019 was the biggest and best All Things Open Ever - 5000+ are expected in 2020. Speakers include: Scott Hanselman, Venkat Subramaniam, Chris Coyier, Ashley McNamara, Kent C Dodds, Una Kravets...
+
+## [DevReach Online 2020](https://www.telerik.com/devreach/online)  
+
+:date: October 19-23 2020, 1:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: DevReach 2.0(20) may be not be in-person, but that doesn’t mean it will be ordinary. Spread over five days, you can interact with Blazor, Angular, React, and Xamarin experts as they live-code on twitch.tv/CodeItLive. Register to receive updates, to be eligible for special prizes and more! Oh – and did we mention it’s FREE?!
 
 ## [.NET DeveloperDays 2020](https://net.developerdays.pl/)  
 
@@ -263,6 +234,21 @@ The conference covers the core principles how to leverage all your data on-premi
 :free: Free  
 :loudspeaker: [Call for Speakers](https://sessionize.com/macedonian-codecamp-2020/) is open  
 :speech_balloon: A free, one-day software development event bringing together developers to encourage excellence and innovation in the Macedonian software community. This conference covers the emerging technologies and best practices in the software development industry regardless of technological platform or language.
+
+## [Data Platform Virtual Summit 2020](https://dataplatformgeeks.com/dps2020/)  
+
+:date: December 2-4 2020, 3:00 AM UTC  
+:globe_with_meridians: Online  
+:credit_card: $109-249 summit only, $149-339 training class, last 12 hours free  
+:speech_balloon: The Largest Online Conference On Data, Advanced Analytics & Artificial Intelligence. A truly redefining moment in community-driven conferences has arrived. Your favorite learning event is now global, will run round-the-clock, covering the entire globe. A never-seen-before phenomenon, 64 volunteers from across continents will defy geographical boundaries and come together to pull-off the spectacle. With 30+ Training Classes, 200+ Breakout Sessions, 100+ World’s Best Educators, 48 hours of Pre-Cons, 48 hours of Post-Cons & 72 hours of non-stop conference sessions – DPS 2020 is the largest online learning event on Microsoft Azure Data, Analytics & Artificial Intelligence. Attend LIVE & get the recordings. Training Classes & the conference is minimally priced for the community, yet, last twelve hours of the conference is free for anyone & everyone to join. Can you ask for more?
+
+## [WinDays 2020](https://www.windays.hr/en/)  
+
+:date: December 7-9 2020, TBA  
+:gb: :croatia: English and Croatian languages  
+:globe_with_meridians: Online  
+:credit_card: 250 € for the Technology conference  
+:speech_balloon: The biggest Croatian technological conference has two parts - Business and Technology, spaning in four days, which will share a common conference theme: artificial intelligence, a technology that will completely change the way we do business and live. The organizer expects that the 20th edition will gather more than 2000 participants who will be able to listen to more than 150 sessions.
 
 ## [NDC { Security } Oslo 2021](https://ndc-security.com/)  
 
