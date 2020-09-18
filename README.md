@@ -13,63 +13,12 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [CONFidence 2020](https://confidence-conference.org/)  
+## [Microsoft Ignite](https://myignite.microsoft.com/)  
 
-:date: September 7-9 2020, 8:00 AM UTC  
-:globe_with_meridians: Online  
-:credit_card: $240 regular price, $54 for students  
-:speech_balloon: CONFidence is an international infosecurity conference originated in 2005 in Poland. We deliver practical, deep-dive technical knowledge for infosec specialists, developers, managers, bankers and governmental representatives.
-
-## [NDC { Minnesota } 2020](https://ndcminnesota.com/)  
-
-:date: September 8-11 2020, 2:00 PM UTC  
-:us: Minneapolis, USA  
-:credit_card: $1200/$1400 for 2-day pass, $1900/$2200 for all  
-:speech_balloon: A 4-day event for software developers that features 2 days of workshops and 2 days of conference sessions. The conference will be covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
-
-## [UG: .NET Oxford: Scott Hanselman!](https://www.meetup.com/dotnetoxford/events/271812676/)  
-
-:date: September 8 2020, 5:45 PM UTC  
+:date: September 22-24 2020, 3:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: We've very excited to be joined by the one and only Scott Hanselman in September! Can you really use Windows to develop Linux apps? How real is WSL (Windows Subsystem for Linux) and how close is it to reality? Join Scott Hanselman as he walks you through the state of the art of Linux on Windows. What's possible, what's not, what about the Windows Terminal and Docker? Tons of live demos in this highly technical session!
-
-## [React Virtual Conference](https://www.2020twenty.net/react/)  
-
-:date: September 11 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:loudspeaker: [Call for Speakers](https://sessionize.com/react-virtual-conference) is open until August 15th  
-:speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
-
-## [Shift Dev Conference 2020](https://dev.shiftconf.co/)  
-
-:date: September 14-15 2020, TBA  
-:croatia: Split, Croatia  
-:credit_card: 200-480 €  
-:speech_balloon: A two-day single-stage developer event, consisting of a balance of educational and inspirational talks, delivered with a side of workshops and networking events located on the beautiful Mediterranean coast.
-
-## [ReactJS Global Summit](https://react.geekle.us/)  
-
-:date: September 15 2020, TBA  
-:globe_with_meridians: Online  
-:credit_card: $79 - $300, Free for juniors  
-:speech_balloon: Watch live stream, access to Q&A sessions, workshops, access to recordings, Slack chat access.
-
-## [Future Tech 2020](https://futuretech.nl/)  
-
-:date: September 16 2020, TBA  
-:netherlands: Utrecht, The Netherlands  
-:credit_card: 170 €  
-:speech_balloon: A technology conference for developers, architects, and experts to discuss and dive deep into .NET technologies such as .NET Core, ASP.NET Core, Azure, and more.
-
-## [VR/AR Global Summit Vancouver](https://www.vrarglobalsummit.com/)  
-
-:date: September 17-18 2020, TBA  
-:canada: Vancouver, Canada  
-:credit_card: $669 for non-member, early bird until June 30th  
-:loudspeaker: [Call for Speakers](https://www.vrarglobalsummit.com/vancouver-speakers-2020) is open  
-:speech_balloon: VR/AR Global Summits are world-class events bringing together the best knowledge and networking for enterprise, hardware, software, and content providers.
+:speech_balloon: Hear the latest product developments and how to put them into action with guidance from Microsoft experts and your worldwide community. The future of tech is here—now, it’s time to learn how to make it work for you.
 
 ## [AWS Community Day Bosnia](https://communityday.awsbosnia.com/)
 
