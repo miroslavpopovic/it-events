@@ -4,7 +4,7 @@ A list of upcoming IT events, mostly development related. Events are sorted asce
 
 ## Legend
 
-The event name is the link to the event. User group meetups have `UG:` prefix, workshops have `Workshop:` prefix, conferences have no prefix.  
+The event name is the link to the event. User group meetups have `UG:` prefix, workshops have a `Workshop:` prefix, conferences have no prefix.  
 :date: All times are in UTC.  
 :gb: English language by default, or country flag if the event is not on English.  
 :globe_with_meridians: for an online event or a country flag for in-person events - :eu:.  
@@ -23,9 +23,9 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 ## [AWS Community Day Bosnia](https://communityday.awsbosnia.com/)
 
 :date: September 25 2020, 6:00 AM UTC  
-:bosnia_herzegovina: Sarajevo, Bosnia and Herzegovina  
+:globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: A one-day, two-track, free AWS conference organized by the AWS community. The goal of the conference is to gather all these who are interested in AWS, to network, learn from each other, and get inspired. This conference was initially planned for April, but got postponed to September.
+:speech_balloon: A one-day, two-track, free AWS conference organized by the AWS community. The goal of the conference is to gather all these who are interested in AWS, to network, learn from each other, and get inspired. This conference was initially planned for April, but got postponed to September, in the online format.
 
 ## [Dotnetos Week](https://week.dotnetos.org/)  
 
@@ -103,7 +103,7 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: October 26 2020, TBA  
 :globe_with_meridians: Online  
 :free: Free  
-:speech_balloon: Collabsummit and Cloudsummit are not taking place this year, but we will be, together with well-known Microsoft MVPs and Microsoft Regional Directors, as well as with our sponsors, delivering a Learning Day, with six community-run full day tutorials, and a few sponsor-run few day tutorials.
+:speech_balloon: Collabsummit and Cloudsummit are not taking place this year, but we will be, together with well-known Microsoft MVPs and Microsoft Regional Directors, as well as with our sponsors, delivering a Learning Day, with six community-run full-day tutorials, and a few sponsor-run few day tutorials.
 
 ## [European Cloud Conference](https://europeancloudconference.com/)  
 
@@ -118,7 +118,7 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :ru: Moscow, Russia  
 :credit_card: TBA  
 :loudspeaker: [Call for Speakers](https://dotnext-moscow.ru/en/callforpapers/) is open until August 12  
-:speech_balloon: A largest .NET conference in Russia. The conference talks are devoted to: the present and the future of .NET platform, performance optimization, .NET platform inner workings, architecture and design patterns, .NET challenging problems and best practices.
+:speech_balloon: A largest .NET conference in Russia. The conference talks are devoted to: the present and the future of the .NET platform, performance optimization, .NET platform inner workings, architecture and design patterns, .NET challenging problems and best practices.
 
 ## [NT Conference 2020](https://www.ntk.si/english/)  
 
@@ -156,7 +156,7 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 🇨🇿 Prague, Czech Republic  
 :credit_card: TBD  
 :loudspeaker: [Call for Speakers](https://sessionize.com/update-conference-prague-2020/) is open until June 30  
-:speech_balloon: Update Conference Prague is the biggest .NET developer conference in the Czech Republic. The conference features three halls and more than 40 technical sessions led by top experts from Europe, USA and other countries.
+:speech_balloon: Update Conference Prague is the biggest .NET developer conference in the Czech Republic. The conference features three halls and more than 40 technical sessions led by top experts from Europe, the USA and other countries.
 
 ## [Blockchain Virtual Conference](https://www.2020twenty.net/blockchain/)  
 
