@@ -13,26 +13,26 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [Microsoft Ignite](https://myignite.microsoft.com/)  
-
-:date: September 22-24 2020, 3:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Hear the latest product developments and how to put them into action with guidance from Microsoft experts and your worldwide community. The future of tech is here—now, it’s time to learn how to make it work for you.
-
-## [AWS Community Day Bosnia](https://communityday.awsbosnia.com/)
-
-:date: September 25 2020, 6:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A one-day, two-track, free AWS conference organized by the AWS community. The goal of the conference is to gather all these who are interested in AWS, to network, learn from each other, and get inspired. This conference was initially planned for April, but got postponed to September, in the online format.
-
 ## [Dotnetos Week](https://week.dotnetos.org/)  
 
 :date: September 28 to October 2 2020, 5:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: We understand that the current COVID-19 situation might impact your health, work, employment situation and overall life balance. To help you in these demanding times, instead of focusing on our on-site Dotnetos Conference that might impact the mentioned areas of life, we want to bring you something different. We hope that making it accessible, just like that, will help you somehow in this situation.
+
+## [UG: BLbit - Microservices and containerization - Ratko Cosic](https://www.meetup.com/blbitug/events/273434659/)  
+
+:date: September 29 2020, 5:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: After the summer break, we continue with another online meetup. This time, the meetup will be in English. Our friend Ratko Cosic, who you know from the Init conference, talks about microservices and containerization! We will be giving away 2 licenses from our sponsor, JetBrains.
+
+## [Jamstack Conf Virtual October](https://jamstackconf.com/virtual/)  
+
+:date: October 6-7 2020, 4:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon:  Come learn & network with us. Join 15,000+ developers and web enthusiasts for a dynamic day of keynotes, interactive sessions, live Q&A and 1:1 networking.
 
 ## [NDC { Sydney } 2020](https://ndcsydney.com/)  
 
@@ -91,6 +91,14 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: DevReach 2.0(20) may be not be in-person, but that doesn’t mean it will be ordinary. Spread over five days, you can interact with Blazor, Angular, React, and Xamarin experts as they live-code on twitch.tv/CodeItLive. Register to receive updates, to be eligible for special prizes and more! Oh – and did we mention it’s FREE?!
 
+## [9th MSCommunity BiH Conference](http://konferencija2020.mscommunity.ba/)  
+
+:date: October 20 2020, TBA  
+:globe_with_meridians: Online  
+:free: Free  
+:loudspeaker: [Call for Speakers](https://sessionize.com/mscommunity-bih-konferencija/) is open until October 4th.  
+:speech_balloon: A great community conference organized by Microsoft Community organization in Bosnia and Herzegovina. Since it is not possible to organize the conference as in previous years, it is decided to switch to the online format. Instead of having a general presentation of products and technologies, we want to present some custom solutions, implementations that you have worked on or participated in, or solutions that you have designed yourself.
+
 ## [.NET DeveloperDays 2020](https://net.developerdays.pl/)  
 
 :date: October 20-21 2020, 7:00 AM UTC  
@@ -117,7 +125,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: November 2-3 2020, TBA  
 :ru: Moscow, Russia  
 :credit_card: TBA  
-:loudspeaker: [Call for Speakers](https://dotnext-moscow.ru/en/callforpapers/) is open until August 12  
 :speech_balloon: A largest .NET conference in Russia. The conference talks are devoted to: the present and the future of the .NET platform, performance optimization, .NET platform inner workings, architecture and design patterns, .NET challenging problems and best practices.
 
 ## [NT Conference 2020](https://www.ntk.si/english/)  
