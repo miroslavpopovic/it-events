@@ -162,15 +162,21 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: November 12-13 2020, TBD  
 🇨🇿 Prague, Czech Republic  
 :credit_card: TBD  
-:loudspeaker: [Call for Speakers](https://sessionize.com/update-conference-prague-2020/) is open until June 30  
 :speech_balloon: Update Conference Prague is the biggest .NET developer conference in the Czech Republic. The conference features three halls and more than 40 technical sessions led by top experts from Europe, the USA and other countries.
+
+## [Postman Galaxy 2020](https://www.postman.com/postman-galaxy/)  
+
+:date: November 17-19 2020, TBD  
+:globe_with_meridians: Online  
+:free: Free?  
+:loudspeaker: [Call for Speakers](https://forms.gle/jg12tw9gmvft9kdh6) is open until September 30th  
+:speech_balloon: Postman Galaxy is the global Postman user conference. This November, we’ll gather the world’s most enthusiastic API users and developers for a rocketload of action-packed online event activities and content about all things API.
 
 ## [Blockchain Virtual Conference](https://www.2020twenty.net/blockchain/)  
 
 :date: November 22-24 2020, 2:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
-:loudspeaker: [Call for Speakers](https://sessionize.com/blockchain-virtual-conference/) is open until September 30th  
 :speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
 
 ## [Big Data Conference Europe 2020](https://bigdataconference.lt/)  
