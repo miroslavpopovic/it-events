@@ -13,27 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [Dotnetos Week](https://week.dotnetos.org/)  
-
-:date: September 28 to October 2 2020, 5:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: We understand that the current COVID-19 situation might impact your health, work, employment situation and overall life balance. To help you in these demanding times, instead of focusing on our on-site Dotnetos Conference that might impact the mentioned areas of life, we want to bring you something different. We hope that making it accessible, just like that, will help you somehow in this situation.
-
-## [UG: BLbit - Microservices and containerization - Ratko Cosic](https://www.meetup.com/blbitug/events/273434659/)  
-
-:date: September 29 2020, 5:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: After the summer break, we continue with another online meetup. This time, the meetup will be in English. Our friend Ratko Cosic, who you know from the Init conference, talks about microservices and containerization! We will be giving away 2 licenses from our sponsor, JetBrains.
-
-## [Jamstack Conf Virtual October](https://jamstackconf.com/virtual/)  
-
-:date: October 6-7 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon:  Come learn & network with us. Join 15,000+ developers and web enthusiasts for a dynamic day of keynotes, interactive sessions, live Q&A and 1:1 networking.
-
 ## [NDC { Sydney } 2020](https://ndcsydney.com/)  
 
 :date: October 12-16 2020, 11:00 PM UTC  
@@ -96,7 +75,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: October 20 2020, TBA  
 :globe_with_meridians: Online  
 :free: Free  
-:loudspeaker: [Call for Speakers](https://sessionize.com/mscommunity-bih-konferencija/) is open until October 4th.  
 :speech_balloon: A great community conference organized by Microsoft Community organization in Bosnia and Herzegovina. Since it is not possible to organize the conference as in previous years, it is decided to switch to the online format. Instead of having a general presentation of products and technologies, we want to present some custom solutions, implementations that you have worked on or participated in, or solutions that you have designed yourself.
 
 ## [.NET DeveloperDays 2020](https://net.developerdays.pl/)  
@@ -105,6 +83,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :poland: Warsaw, Poland  
 :credit_card: 399 € for the conference without pre/post-conference events, until the end of May, then 499 € until the end of August, then 599 €  
 :speech_balloon: The biggest event in Central and Eastern Europe dedicated exclusively to application development on the .NET platform. It is designed for architects, developers, testers, and project managers using .NET in their work and to those who want to improve their knowledge and skills in this field. The conference content is 100% English, making it easy for the international audience to attend.
+
+## [DotNet 2020](https://dotnet2020.com/)  
+
+:date: October 21 2020, 7:00 AM UTC  
+:globe_with_meridians: Online  
+:credit_card: $0-15  
+:speech_balloon: The third edition of the DotNet organized by Plain Concepts will take place next October 21st in a 100% online format. After being forced to cancel the face-to-face edition of the event due to the health emergency, we are back with more strength than ever to offer you the best content as you have never done before. During the day you can enjoy several presentations on .NET, Artificial Intelligence, Azure, Xamarin and Augmented Reality, with the help of major national and international speakers. And the best part? You can now watch from anywhere.
 
 ## [European Collaboration Summit - Online Learning Day 2020](https://www.learningday.net/)  
 
