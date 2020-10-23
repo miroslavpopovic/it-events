@@ -77,20 +77,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :free: Free  
 :speech_balloon: A great community conference organized by Microsoft Community organization in Bosnia and Herzegovina. Since it is not possible to organize the conference as in previous years, it is decided to switch to the online format. Instead of having a general presentation of products and technologies, we want to present some custom solutions, implementations that you have worked on or participated in, or solutions that you have designed yourself.
 
-## [.NET DeveloperDays 2020](https://net.developerdays.pl/)  
-
-:date: October 20-21 2020, 7:00 AM UTC  
-:poland: Warsaw, Poland  
-:credit_card: 399 € for the conference without pre/post-conference events, until the end of May, then 499 € until the end of August, then 599 €  
-:speech_balloon: The biggest event in Central and Eastern Europe dedicated exclusively to application development on the .NET platform. It is designed for architects, developers, testers, and project managers using .NET in their work and to those who want to improve their knowledge and skills in this field. The conference content is 100% English, making it easy for the international audience to attend.
-
-## [DotNet 2020](https://dotnet2020.com/)  
-
-:date: October 21 2020, 7:00 AM UTC  
-:globe_with_meridians: Online  
-:credit_card: $0-15  
-:speech_balloon: The third edition of the DotNet organized by Plain Concepts will take place next October 21st in a 100% online format. After being forced to cancel the face-to-face edition of the event due to the health emergency, we are back with more strength than ever to offer you the best content as you have never done before. During the day you can enjoy several presentations on .NET, Artificial Intelligence, Azure, Xamarin and Augmented Reality, with the help of major national and international speakers. And the best part? You can now watch from anywhere.
-
 ## [European Collaboration Summit - Online Learning Day 2020](https://www.learningday.net/)  
 
 :date: October 26 2020, TBA  
@@ -111,6 +97,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :ru: Moscow, Russia  
 :credit_card: TBA  
 :speech_balloon: A largest .NET conference in Russia. The conference talks are devoted to: the present and the future of the .NET platform, performance optimization, .NET platform inner workings, architecture and design patterns, .NET challenging problems and best practices.
+
+## [NodeConf Remote 2020](https://www.nodeconfremote.com/)
+
+:date: November 2-6 2020, 11:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free for the talks, 100+ € for workshops  
+:speech_balloon: As anyone who’s come to NodeConf EU will undoubtedly agree, our annual event in Ireland is not just a conference, it’s a gathering of the NodeConf family. In 2019, 280 attendees from 32 countries across 5 continents came together to share ideas, stories, insights and have fun. For most who come regularly, it’s an experience not to be missed.
 
 ## [NT Conference 2020](https://www.ntk.si/english/)  
 
@@ -154,7 +147,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :date: November 17-19 2020, TBD  
 :globe_with_meridians: Online  
 :free: Free?  
-:loudspeaker: [Call for Speakers](https://forms.gle/jg12tw9gmvft9kdh6) is open until September 30th  
 :speech_balloon: Postman Galaxy is the global Postman user conference. This November, we’ll gather the world’s most enthusiastic API users and developers for a rocketload of action-packed online event activities and content about all things API.
 
 ## [Blockchain Virtual Conference](https://www.2020twenty.net/blockchain/)  
@@ -232,7 +224,7 @@ The conference covers the core principles how to leverage all your data on-premi
 
 :date: June 14-16 2021, TBA  
 :de: Wiesbaden, Germany  
-:credit_card: 300 €, or 500 € for full conference pass  
+:credit_card: 300 €, or 500 € for a full conference pass  
 :speech_balloon: The leading and the largest European conference about everything Microsoft 365, Teams, SharePoint, Power Platform, and Business Apps. Speakers include: Dan Holme, Dona Sarkar, Vesa Juvonen, Adis Jugo, Agnes Molnar, Omar Kudovic, Damir Dizdarevic, Damir Dobric, Dragan Panjkov, Edin Kapic...
 
 ## [European Cloud Summit](https://www.cloudsummit.eu/)  
