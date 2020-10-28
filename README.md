@@ -13,77 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [NDC { Sydney } 2020](https://ndcsydney.com/)  
-
-:date: October 12-16 2020, 11:00 PM UTC  
-:australia: Sydney, Australia  
-:credit_card: $1300/$1550 for 3-day conference pass, $2000/$2400 for the conference with workshops  
-:speech_balloon: The 5th annual NDC Conference in Australia. A five-day event with the same format as its European sisters NDC Oslo and NDC London. The conference will feature 5 tracks covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
-
-## [Thrive Conference](https://www.thriveconf.com/en/Pages/Home.aspx)  
-
-:date: October 13-14 2020, TBA  
-:slovenia: Bohinjska Bistrica, Slovenia  
-:credit_card: 440 € until the end of July, then 550 €  
-:speech_balloon: A Slovenian conference about modern IT technologies. The opportunity to choose from more than 70 high-quality sessions in 9 separate tracks, which will be held in English. Learn tips & tricks as well as best practices from the top experts.
-
-## [TestCon Europe 2020](https://bigdataconference.lt/)  
-
-:date: October 13-15 2020, 1:00 PM UTC  
-:lithuania: Vilnius, Lithuania  
-:credit_card: 300€/459€ for a 2-day conference, 440€/632€ for a full ticket with the workshop  
-:speech_balloon: The leading event primarily aimed at Software Testers and Test Analysts, QA Engineers, Developers, Test Managers, Team Leads, and anyone willing to learn best practices and make their contribution to the smoother software development cycle and quality.
-
-## [Tech Bash 2020](https://techbash.com/)  
-
-:date: October 13-16 2020, TBA  
-:us: Pocono Manor, Pennsylvania, US  
-:credit_card: TBA  
-:speech_balloon: TechBash is a community-focused event and is not for profit. The sessions at TechBash will deliver bleeding edge advances in the coding, designing and development of mobile, web, desktop and SaaS applications. Our speakers are world-class knowledge experts you may have seen featured at other conferences like DevIntersections, NDC, VS Live (Visual Studio Live), and Google I/O.
-
-## [.NET Virtual Conference](https://www.2020twenty.net/dotnet/)  
-
-:date: October 16 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:loudspeaker: [Call for Speakers](https://sessionize.com/dotnet-virtual-conference/) is open until September 30th  
-:speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
-
-## [#DataWeekender #TheSQL](https://www.meetup.com/DataWeekender/events/272258429/)  
-
-:date: October 17 2020, 7:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: #DataWeekender is back for its second running on the 17th Oct 2020. Hosted by various data professionals, it is free to attend. The full schedule and speaker list will be on [https://www.dataweekender.com](https://www.dataweekender.com).
-
-## [All Things Open 2020](https://2020.allthingsopen.org/)  
-
-:date: October 18-20 2020, TBA  
-:us: Raleigh, North Carolina, US  
-:credit_card: TBA  
-:speech_balloon: Since 2013 some of the top experts and emerging thought leaders in the world have spoken. In 2019 leading and emerging companies from all over the world were sponsors and partners. 2019 was the biggest and best All Things Open Ever - 5000+ are expected in 2020. Speakers include: Scott Hanselman, Venkat Subramaniam, Chris Coyier, Ashley McNamara, Kent C Dodds, Una Kravets...
-
-## [DevReach Online 2020](https://www.telerik.com/devreach/online)  
-
-:date: October 19-23 2020, 1:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: DevReach 2.0(20) may be not be in-person, but that doesn’t mean it will be ordinary. Spread over five days, you can interact with Blazor, Angular, React, and Xamarin experts as they live-code on twitch.tv/CodeItLive. Register to receive updates, to be eligible for special prizes and more! Oh – and did we mention it’s FREE?!
-
-## [9th MSCommunity BiH Conference](http://konferencija2020.mscommunity.ba/)  
-
-:date: October 20 2020, TBA  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A great community conference organized by Microsoft Community organization in Bosnia and Herzegovina. Since it is not possible to organize the conference as in previous years, it is decided to switch to the online format. Instead of having a general presentation of products and technologies, we want to present some custom solutions, implementations that you have worked on or participated in, or solutions that you have designed yourself.
-
-## [European Collaboration Summit - Online Learning Day 2020](https://www.learningday.net/)  
-
-:date: October 26 2020, TBA  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Collabsummit and Cloudsummit are not taking place this year, but we will be, together with well-known Microsoft MVPs and Microsoft Regional Directors, as well as with our sponsors, delivering a Learning Day, with six community-run full-day tutorials, and a few sponsor-run few day tutorials.
-
 ## [European Cloud Conference](https://europeancloudconference.com/)  
 
 :date: October 27-29 2020, TBA  
@@ -120,20 +49,19 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: $1420/$1520  
 :speech_balloon: Øredev is the perfect blend, with one day of in-depth pre-conference workshops and three days of sessions, you will get tons of inspiration and learning to keep you creating your best work all year long.
 
+## [RustFest Global 2020](https://rustfest.global/)
+
+:date: November 7-8 2020, 0:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free or up to 100 €, depending on a tier  
+:speech_balloon: RustFest Global is a Rust community conference. Sessions will be streamed online in three time zones across the globe — join live or re-watch the talks anytime you want!
+
 ## [.NET Conf 2020](https://www.dotnetconf.net/)
 
 :date: November 10-12 2020, 4:00 PM UTC  
 :globe_with_meridians: Online  
 :free: Free  
 :speech_balloon: .NET Conf is a free, three-day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.
-
-## [NetWork 10](https://www.networkkonferencija.ba/)
-
-:date: November 11-13 2020, 4:00 PM UTC  
-:gb: :bosnia_herzegovina: English and Bosnian/Croatian/Serbian languages  
-:bosnia_herzegovina: Neum, Bosnia and Herzegovina  
-:credit_card: 230 € until the end of October, then 280 €, 25 € for students  
-:speech_balloon: The biggest business and technology conference in Bosnia and Herzegovina, focused on Microsoft technologies. The topics covered are: AI, DevOps, IoT, Business Disruption, Digital Transformation, Modern Workplace, Business Applications, Cloud Infrastructure, Open Source, Security & Compliance, and Advanced Analytics.
 
 ## [Update Conference Prague 2020](https://www.updateconference.net/en)
 
@@ -219,6 +147,14 @@ The conference covers the core principles how to leverage all your data on-premi
 :switzerland: Mainz/Frankfurt, Germany  
 :credit_card: 350 CHF until the end of January, then 399 CHF until the end of February, then 499 CHF  
 :speech_balloon: An independent technology conference for developers, architects, and experts to discuss and get to know .NET technologies all around .NET, .NET Core, C#, ASP.NET Core, Azure, and more. Experienced speakers share their knowledge on the latest topics and give you deep insights into the new world of Microsoft software development and beyond. In addition to the technical talks, .NET Day provides a space for discussions with the speakers and other attendees.
+
+## [NetWork 10](https://www.networkkonferencija.ba/)
+
+:date: May 26-28 2020, 4:00 PM UTC  
+:gb: :bosnia_herzegovina: English and Bosnian/Croatian/Serbian languages  
+:bosnia_herzegovina: Neum, Bosnia and Herzegovina  
+:credit_card: 230 € until the end of October, then 280 €, 25 € for students  
+:speech_balloon: The biggest business and technology conference in Bosnia and Herzegovina, focused on Microsoft technologies. The topics covered are: AI, DevOps, IoT, Business Disruption, Digital Transformation, Modern Workplace, Business Applications, Cloud Infrastructure, Open Source, Security & Compliance, and Advanced Analytics.
 
 ## [European Collaboration Summit](https://www.collabsummit.eu/)  
 
