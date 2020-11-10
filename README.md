@@ -13,49 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [European Cloud Conference](https://europeancloudconference.com/)  
-
-:date: October 27-29 2020, TBA  
-:fr: Nica, France  
-:credit_card: 795 € 2-day tickets, 995 € 3-day tickets, will go up to 995/1395 €  
-:speech_balloon: Dedicated to Microsoft Azure, the European Cloud Conference is a three-day event, focusing on specialist Microsoft Azure sessions from levels 100-400. Access a host of deep-dive learning opportunities, from inspirational Keynotes, 8 expert full-day tutorials, to 70+ specialist Azure sessions. Key Topics include AI, Azure Migrations, Cloud Compute, Database, Hybrid Solutions, Identity & Access, IoT, Integration, Machine Learning, Messaging, Monitoring, Management & Governance, Networking, Quantum Computing, Security, and more. Speakers include: Aleksandar Nikolic, Laurent Bugnion, Magnus Mårtensson, Michele Leroux Bustamante, Mark Brown, Mihail Mateev, Mustafa Toroman, Radu Vunvulea, Thomas Maurer, Vladimir Stefanovic...
-
-## [DotNext 2020](https://dotnext-moscow.ru/en/)  
-
-:date: November 2-3 2020, TBA  
-:ru: Moscow, Russia  
-:credit_card: TBA  
-:speech_balloon: A largest .NET conference in Russia. The conference talks are devoted to: the present and the future of the .NET platform, performance optimization, .NET platform inner workings, architecture and design patterns, .NET challenging problems and best practices.
-
-## [NodeConf Remote 2020](https://www.nodeconfremote.com/)
-
-:date: November 2-6 2020, 11:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free for the talks, 100+ € for workshops  
-:speech_balloon: As anyone who’s come to NodeConf EU will undoubtedly agree, our annual event in Ireland is not just a conference, it’s a gathering of the NodeConf family. In 2019, 280 attendees from 32 countries across 5 continents came together to share ideas, stories, insights and have fun. For most who come regularly, it’s an experience not to be missed.
-
-## [NT Conference 2020](https://www.ntk.si/english/)  
-
-:date: November 3-5 2020, TBA  
-:gb: :slovenia: English and Slovenian languages  
-:slovenia: Portoroz, Slovenia  
-:credit_card: 890 € for full conference  
-:speech_balloon: The biggest Slovenian technological conference has, through the years, grown to be one of the most successful and important IT and business events in our country.
-
-## [Øredev 2020](https://oredev.org/)  
-
-:date: November 3-6 2020, TBA  
-:sweden: Malmö, Sweden  
-:credit_card: $1420/$1520  
-:speech_balloon: Øredev is the perfect blend, with one day of in-depth pre-conference workshops and three days of sessions, you will get tons of inspiration and learning to keep you creating your best work all year long.
-
-## [RustFest Global 2020](https://rustfest.global/)
-
-:date: November 7-8 2020, 0:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free or up to 100 €, depending on a tier  
-:speech_balloon: RustFest Global is a Rust community conference. Sessions will be streamed online in three time zones across the globe — join live or re-watch the talks anytime you want!
-
 ## [.NET Conf 2020](https://www.dotnetconf.net/)
 
 :date: November 10-12 2020, 4:00 PM UTC  
@@ -69,13 +26,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 🇨🇿 Prague, Czech Republic  
 :credit_card: TBD  
 :speech_balloon: Update Conference Prague is the biggest .NET developer conference in the Czech Republic. The conference features three halls and more than 40 technical sessions led by top experts from Europe, the USA and other countries.
-
-## [Postman Galaxy 2020](https://www.postman.com/postman-galaxy/)  
-
-:date: November 17-19 2020, TBD  
-:globe_with_meridians: Online  
-:free: Free?  
-:speech_balloon: Postman Galaxy is the global Postman user conference. This November, we’ll gather the world’s most enthusiastic API users and developers for a rocketload of action-packed online event activities and content about all things API.
 
 ## [Blockchain Virtual Conference](https://www.2020twenty.net/blockchain/)  
 
@@ -92,6 +42,13 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: [Call for Speakers](https://bigdataconference.lt/cfp/) is open  
 :speech_balloon: A three-day event with purely technical talks and workshops in the fields of Big Data, High Load, Data Science, and Machine Learning.
 The conference covers the core principles how to leverage all your data on-premise and in the cloud and how to drive predictive analytics, deep-learning, and artificial intelligence initiatives.
+
+## [AWS re:Invent](https://reinvent.awsevents.com/)  
+
+:date: November 30 - December 18 2020  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: A free three-week virtual conference. Enjoy unlimited access to hundreds of sessions led by AWS experts. Hear from cloud leaders and be the first to learn what’s new.
 
 ## [CodeCamp.mk 2020](https://codecamp.mk/)  
 
@@ -132,6 +89,13 @@ The conference covers the core principles how to leverage all your data on-premi
 :credit_card: $1730 for 3-day conference pass, $2600 for the conference with workshops  
 :loudspeaker: TBA  
 :speech_balloon: A five-day event with the same format as NDC Oslo. The conference will feature several tracks covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
+
+## [Postman Galaxy 2020](https://www.postman.com/postman-galaxy/)  
+
+:date: February 2-4 2021, TBD  
+:globe_with_meridians: Online  
+:free: Free for the conference, $10/$100 for workshops  
+:speech_balloon: Postman Galaxy is the global, virtual Postman user conference. We’ll gather the world’s most enthusiastic API builders, testers, managers, and executives for a rocketload of action-packed online event activities and content about all things API.
 
 ## [DevDays Europe 2021](https://devdays.lt/)  
 
