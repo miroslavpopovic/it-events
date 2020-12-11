@@ -13,67 +13,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [.NET Conf 2020](https://www.dotnetconf.net/)
-
-:date: November 10-12 2020, 4:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: .NET Conf is a free, three-day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.
-
-## [Update Conference Prague 2020](https://www.updateconference.net/en)
-
-:date: November 12-13 2020, TBD  
-🇨🇿 Prague, Czech Republic  
-:credit_card: TBD  
-:speech_balloon: Update Conference Prague is the biggest .NET developer conference in the Czech Republic. The conference features three halls and more than 40 technical sessions led by top experts from Europe, the USA and other countries.
-
-## [Blockchain Virtual Conference](https://www.2020twenty.net/blockchain/)  
-
-:date: November 22-24 2020, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: One of the 20 virtual conferences organized by the C# Corner.
-
-## [Big Data Conference Europe 2020](https://bigdataconference.lt/)  
-
-:date: November 24-26 2020, 1:00 PM UTC  
-:lithuania: Vilnius, Lithuania  
-:credit_card: 300€/459€ for a 2-day conference, 440€/632€ for a full ticket with the workshop  
-:loudspeaker: [Call for Speakers](https://bigdataconference.lt/cfp/) is open  
-:speech_balloon: A three-day event with purely technical talks and workshops in the fields of Big Data, High Load, Data Science, and Machine Learning.
-The conference covers the core principles how to leverage all your data on-premise and in the cloud and how to drive predictive analytics, deep-learning, and artificial intelligence initiatives.
-
-## [AWS re:Invent](https://reinvent.awsevents.com/)  
-
-:date: November 30 - December 18 2020  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A free three-week virtual conference. Enjoy unlimited access to hundreds of sessions led by AWS experts. Hear from cloud leaders and be the first to learn what’s new.
-
-## [CodeCamp.mk 2020](https://codecamp.mk/)  
-
-:date: Autumn 2020, TBA  
-:gb: :macedonia: English and Macedonian languages  
-:macedonia: Skopje, Macedonia  
-:free: Free  
-:loudspeaker: [Call for Speakers](https://sessionize.com/macedonian-codecamp-2020/) is open  
-:speech_balloon: A free, one-day software development event bringing together developers to encourage excellence and innovation in the Macedonian software community. This conference covers the emerging technologies and best practices in the software development industry regardless of technological platform or language.
-
-## [Data Platform Virtual Summit 2020](https://dataplatformgeeks.com/dps2020/)  
-
-:date: December 2-4 2020, 3:00 AM UTC  
-:globe_with_meridians: Online  
-:credit_card: $109-249 summit only, $149-339 training class, last 12 hours free  
-:speech_balloon: The Largest Online Conference On Data, Advanced Analytics & Artificial Intelligence. A truly redefining moment in community-driven conferences has arrived. Your favorite learning event is now global, will run round-the-clock, covering the entire globe. A never-seen-before phenomenon, 64 volunteers from across continents will defy geographical boundaries and come together to pull-off the spectacle. With 30+ Training Classes, 200+ Breakout Sessions, 100+ World’s Best Educators, 48 hours of Pre-Cons, 48 hours of Post-Cons & 72 hours of non-stop conference sessions – DPS 2020 is the largest online learning event on Microsoft Azure Data, Analytics & Artificial Intelligence. Attend LIVE & get the recordings. Training Classes & the conference is minimally priced for the community, yet, last twelve hours of the conference is free for anyone & everyone to join. Can you ask for more?
-
-## [WinDays 2020](https://www.windays.hr/en/)  
-
-:date: December 7-9 2020, TBA  
-:gb: :croatia: English and Croatian languages  
-:globe_with_meridians: Online  
-:credit_card: 250 € for the Technology conference  
-:speech_balloon: The biggest Croatian technological conference has two parts - Business and Technology, spaning in four days, which will share a common conference theme: artificial intelligence, a technology that will completely change the way we do business and live. The organizer expects that the 20th edition will gather more than 2000 participants who will be able to listen to more than 150 sessions.
-
 ## [NDC { Security } Oslo 2021](https://ndc-security.com/)  
 
 :date: January 20-22 2021, 7:00 AM UTC  
