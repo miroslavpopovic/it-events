@@ -13,21 +13,27 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [NDC { Security } Oslo 2021](https://ndc-security.com/)  
-
-:date: January 20-22 2021, 7:00 AM UTC  
-:no: Oslo, Norway  
-:credit_card: $550 for 1-day conference pass, $1550 for the conference with workshops  
-:loudspeaker: TBA  
-:speech_balloon: A three-day event with two days of workshops and one day of conference talks.
-
 ## [NDC { London } 2021](https://ndc-london.com/)  
 
 :date: January 25-29 2021, 8:00 AM UTC  
-:gb: London, United Kingdom  
+:globe_with_meridians: Online  
 :credit_card: $1730 for 3-day conference pass, $2600 for the conference with workshops  
 :loudspeaker: TBA  
 :speech_balloon: A five-day event with the same format as NDC Oslo. The conference will feature several tracks covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
+
+## [.NET Frontend Day](https://www.dotnet-frontend.com/)  
+
+:date: January 28th, 2:00 PM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: A full day online, with a focus on building frontend applications using .NET!
+
+## [Azure Lowlands](https://www.azurelowlands.com/)  
+
+:date: January 29th, 7:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Azure Lowlands is a single-day event with three tracks around Microsoft Azure Platform as a Service (PaaS) offerings, ranging from for containers, data, integration all the way to DevOps, IoT and AI.
 
 ## [Postman Galaxy 2020](https://www.postman.com/postman-galaxy/)  
 
@@ -35,14 +41,6 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :globe_with_meridians: Online  
 :free: Free for the conference, $10/$100 for workshops  
 :speech_balloon: Postman Galaxy is the global, virtual Postman user conference. We’ll gather the world’s most enthusiastic API builders, testers, managers, and executives for a rocketload of action-packed online event activities and content about all things API.
-
-## [DevDays Europe 2021](https://devdays.lt/)  
-
-:date: April 13-15 2021, 6:00 AM UTC  
-:lithuania: Vilnius, Lithuania  
-:credit_card: TBA  
-:loudspeaker: [Call for Speakers](https://devdays.lt/call-for-papers/) is open  
-:speech_balloon: Software development conference bringing together internationally recognized speakers and developers to encourage excellence and innovation in the software development community. At this conference we cover the emerging technologies and best practices in the software development industry – regardless of technological platform or language – without commercial hype.
 
 ## [.NET Day Switzerland 2021](https://www.dotnetday.ch/)  
 
@@ -59,12 +57,28 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :credit_card: 230 € until the end of October, then 280 €, 25 € for students  
 :speech_balloon: The biggest business and technology conference in Bosnia and Herzegovina, focused on Microsoft technologies. The topics covered are: AI, DevOps, IoT, Business Disruption, Digital Transformation, Modern Workplace, Business Applications, Cloud Infrastructure, Open Source, Security & Compliance, and Advanced Analytics.
 
+## [DevDays Europe 2021](https://devdays.lt/)  
+
+:date: June 8-10 2021, 6:00 AM UTC  
+:lithuania: Vilnius, Lithuania  
+:credit_card: TBA  
+:loudspeaker: [Call for Speakers](https://devdays.lt/call-for-papers/) is open  
+:speech_balloon: Software development conference bringing together internationally recognized speakers and developers to encourage excellence and innovation in the software development community. At this conference we cover the emerging technologies and best practices in the software development industry – regardless of technological platform or language – without commercial hype.
+
 ## [European Collaboration Summit](https://www.collabsummit.eu/)  
 
 :date: June 14-16 2021, TBA  
 :de: Wiesbaden, Germany  
 :credit_card: 300 €, or 500 € for a full conference pass  
 :speech_balloon: The leading and the largest European conference about everything Microsoft 365, Teams, SharePoint, Power Platform, and Business Apps. Speakers include: Dan Holme, Dona Sarkar, Vesa Juvonen, Adis Jugo, Agnes Molnar, Omar Kudovic, Damir Dizdarevic, Damir Dobric, Dragan Panjkov, Edin Kapic...
+
+## [NDC Security 2021](https://ndc-security.com/)  
+
+:date: June 14-17 2021, 7:00 AM UTC  
+:no: Oslo, Norway  
+:credit_card: $550 for 1-day conference pass, $1550 for the conference with workshops  
+:loudspeaker: TBA  
+:speech_balloon: A three-day event with two days of workshops and one day of conference talks.
 
 ## [European Cloud Summit](https://www.cloudsummit.eu/)  
 
