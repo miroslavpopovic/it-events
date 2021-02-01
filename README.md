@@ -13,34 +13,19 @@ The event name is the link to the event. User group meetups have `UG:` prefix, w
 :loudspeaker: for a call for speakers link  
 :speech_balloon: for event description.
 
-## [NDC { London } 2021](https://ndc-london.com/)  
-
-:date: January 25-29 2021, 8:00 AM UTC  
-:globe_with_meridians: Online  
-:credit_card: $1730 for 3-day conference pass, $2600 for the conference with workshops  
-:loudspeaker: TBA  
-:speech_balloon: A five-day event with the same format as NDC Oslo. The conference will feature several tracks covering topics such as: .NET Framework, Agile, C++, Cloud, Database, Design, DevOps, Embedded, Front-End Framework, Fun, Functional Programming, Gadgets, IoT, Javascript, Microsoft, Misc Languages, Mobile, People, Programming Languages, Security, Techniques, Testing, Tools, UX, Web, and more.
-
-## [.NET Frontend Day](https://www.dotnet-frontend.com/)  
-
-:date: January 28th, 2:00 PM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: A full day online, with a focus on building frontend applications using .NET!
-
-## [Azure Lowlands](https://www.azurelowlands.com/)  
-
-:date: January 29th, 7:00 AM UTC  
-:globe_with_meridians: Online  
-:free: Free  
-:speech_balloon: Azure Lowlands is a single-day event with three tracks around Microsoft Azure Platform as a Service (PaaS) offerings, ranging from for containers, data, integration all the way to DevOps, IoT and AI.
-
 ## [Postman Galaxy 2020](https://www.postman.com/postman-galaxy/)  
 
 :date: February 2-4 2021, TBD  
 :globe_with_meridians: Online  
 :free: Free for the conference, $10/$100 for workshops  
 :speech_balloon: Postman Galaxy is the global, virtual Postman user conference. We’ll gather the world’s most enthusiastic API builders, testers, managers, and executives for a rocketload of action-packed online event activities and content about all things API.
+
+## [Azure Saturday Belgrade 2020](https://azuresaturday.rs/)  
+
+:date: February 20 2021, 8:00 AM UTC  
+:globe_with_meridians: Online  
+:free: Free  
+:speech_balloon: Azure Saturday, as a part of AzureDays.org events, is Azure-based community-driven free event. In this part of Europe, Azure Saturday Belgrade is the biggest Azure focused event. The Event is organized by Azure User Group Serbia, and our mission is still the same, share knowledge about Microsoft Azure as much as possible. Azure Saturday will bring together Azure Experts from region and rest of Europe, with the same goal, learn & fun. Be part of this event and you will be able to learn a lot about Azure during full session day and few amazing workshops.
 
 ## [.NET Day Switzerland 2021](https://www.dotnetday.ch/)  
 
